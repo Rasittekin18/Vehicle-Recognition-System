@@ -1,0 +1,2879 @@
+[
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\1.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.7,
+                "color_info": "[{\"color\": \"Red\", \"prob\": \"0.37781614\"}, {\"color\": \"Black\", \"prob\": \"0.12274022\"}, {\"color\": \"Silver\", \"prob\": \"0.11652226\"}]",
+                "model_info": "[{\"make\": \"Subaru\", \"model\": \"Impreza\", \"prob\": \"0.039769784\"}, {\"make\": \"Subaru\", \"model\": \"WRX\", \"prob\": \"0.037041314\"}, {\"make\": \"Ford\", \"model\": \"Focus\", \"prob\": \"0.034435675\"}]",
+                "bbox": {
+                    "x": 352,
+                    "y": 1401,
+                    "width": 703,
+                    "height": 1258
+                },
+                "recognition_text": "36631",
+                "recognition_confidence": 0.52,
+                "detection_bbox": {
+                    "xmin": 383,
+                    "ymin": 37,
+                    "xmax": 467,
+                    "ymax": 74
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.59,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.8785153\"}, {\"color\": \"Black\", \"prob\": \"0.042453054\"}, {\"color\": \"Grey\", \"prob\": \"0.02519751\"}]",
+                "model_info": "[{\"make\": \"Audi\", \"model\": \"A3\", \"prob\": \"0.98290783\"}, {\"make\": \"Audi\", \"model\": \"S3\", \"prob\": \"0.0131055685\"}, {\"make\": \"Audi\", \"model\": \"A8\", \"prob\": \"0.0019405298\"}]",
+                "bbox": {
+                    "x": 1642,
+                    "y": 1864,
+                    "width": 2539,
+                    "height": 2247
+                },
+                "recognition_text": "16JKL89",
+                "recognition_confidence": 1.0,
+                "detection_bbox": {
+                    "xmin": 712,
+                    "ymin": 1830,
+                    "xmax": 1714,
+                    "ymax": 2119
+                }
+            },
+            {
+                "vehicle_id": 3,
+                "vehicle_type": "car",
+                "detection_confidence": 0.79,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.81554246\"}, {\"color\": \"Silver\", \"prob\": \"0.064488806\"}, {\"color\": \"Black\", \"prob\": \"0.033437274\"}]",
+                "model_info": "[{\"make\": \"Nissan\", \"model\": \"Qashqai\", \"prob\": \"0.87374824\"}, {\"make\": \"Ford\", \"model\": \"Kuga\", \"prob\": \"0.098460585\"}, {\"make\": \"Ford\", \"model\": \"Escape\", \"prob\": \"0.0030751901\"}]",
+                "bbox": {
+                    "x": 513,
+                    "y": 836,
+                    "width": 398,
+                    "height": 256
+                },
+                "recognition_text": null,
+                "recognition_confidence": null,
+                "detection_bbox": {
+                    "xmin": 67,
+                    "ymin": 104,
+                    "xmax": 154,
+                    "ymax": 138
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\2.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.73,
+                "color_info": "[{\"color\": \"Black\", \"prob\": \"0.99374384\"}, {\"color\": \"Grey\", \"prob\": \"0.002565459\"}, {\"color\": \"Blue\", \"prob\": \"0.0025312\"}]",
+                "model_info": "[{\"make\": \"Audi\", \"model\": \"A3\", \"prob\": \"0.9962476\"}, {\"make\": \"Audi\", \"model\": \"A4\", \"prob\": \"0.0015284874\"}, {\"make\": \"Audi\", \"model\": \"A6\", \"prob\": \"0.0007234123\"}]",
+                "bbox": {
+                    "x": 859,
+                    "y": 962,
+                    "width": 1227,
+                    "height": 1028
+                },
+                "recognition_text": "16BPF24",
+                "recognition_confidence": 1.0,
+                "detection_bbox": {
+                    "xmin": 360,
+                    "ymin": 791,
+                    "xmax": 828,
+                    "ymax": 916
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.719334602355957,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.54465246\"}, {\"color\": \"Silver\", \"prob\": \"0.15875062\"}, {\"color\": \"Blue\", \"prob\": \"0.077240355\"}]",
+                "model_info": "[{\"make\": \"Hyundai\", \"model\": \"i20\", \"prob\": \"0.042517208\"}, {\"make\": \"Hyundai\", \"model\": \"i30\", \"prob\": \"0.040215805\"}, {\"make\": \"Toyota\", \"model\": \"Yaris\", \"prob\": \"0.032241415\"}]",
+                "bbox": {
+                    "x": 1389,
+                    "y": 504,
+                    "width": 289,
+                    "height": 111
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\3.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.76,
+                "color_info": "[{\"color\": \"Silver\", \"prob\": \"0.7051066\"}, {\"color\": \"Grey\", \"prob\": \"0.22318299\"}, {\"color\": \"White\", \"prob\": \"0.05470585\"}]",
+                "model_info": "[{\"make\": \"Opel\", \"model\": \"Astra\", \"prob\": \"0.9894845\"}, {\"make\": \"Opel\", \"model\": \"Zafira\", \"prob\": \"0.0037851983\"}, {\"make\": \"Opel\", \"model\": \"Vectra\", \"prob\": \"0.0036470143\"}]",
+                "bbox": {
+                    "x": 189,
+                    "y": 174,
+                    "width": 273,
+                    "height": 220
+                },
+                "recognition_text": "16AAB723",
+                "recognition_confidence": 0.92,
+                "detection_bbox": {
+                    "xmin": 82,
+                    "ymin": 164,
+                    "xmax": 168,
+                    "ymax": 191
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.78,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.9976502\"}, {\"color\": \"Grey\", \"prob\": \"0.0008578128\"}, {\"color\": \"Black\", \"prob\": \"0.00083161495\"}]",
+                "model_info": "[{\"make\": \"Renault\", \"model\": \"Clio\", \"prob\": \"0.96844155\"}, {\"make\": \"Renault\", \"model\": \"Sport\", \"prob\": \"0.021716435\"}, {\"make\": \"Renault\", \"model\": \"Twingo\", \"prob\": \"0.0015449321\"}]",
+                "bbox": {
+                    "x": 509,
+                    "y": 165,
+                    "width": 282,
+                    "height": 207
+                },
+                "recognition_text": "SAAB723",
+                "recognition_confidence": 0.85,
+                "detection_bbox": {
+                    "xmin": 143,
+                    "ymin": 173,
+                    "xmax": 231,
+                    "ymax": 206
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\4.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.75,
+                "color_info": "[{\"color\": \"Black\", \"prob\": \"0.79246163\"}, {\"color\": \"Grey\", \"prob\": \"0.10897005\"}, {\"color\": \"Green\", \"prob\": \"0.06140123\"}]",
+                "model_info": "[{\"make\": \"Mercedes-Benz\", \"model\": \"E-Class\", \"prob\": \"0.48707396\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"E 250\", \"prob\": \"0.32354224\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"300\", \"prob\": \"0.11137772\"}]",
+                "bbox": {
+                    "x": 762,
+                    "y": 1140,
+                    "width": 1499,
+                    "height": 1078
+                },
+                "recognition_text": "16BT086",
+                "recognition_confidence": 0.99,
+                "detection_bbox": {
+                    "xmin": 396,
+                    "ymin": 812,
+                    "xmax": 808,
+                    "ymax": 947
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\5.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.90318763256073,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.7799189\"}, {\"color\": \"Black\", \"prob\": \"0.044774078\"}, {\"color\": \"Grey\", \"prob\": \"0.040414724\"}]",
+                "model_info": "[{\"make\": \"BMW\", \"model\": \"7 Series\", \"prob\": \"0.05984885\"}, {\"make\": \"BMW\", \"model\": \"5 Series\", \"prob\": \"0.04517852\"}, {\"make\": \"BMW\", \"model\": \"X1\", \"prob\": \"0.025372066\"}]",
+                "bbox": {
+                    "x": 597,
+                    "y": 132,
+                    "width": 165,
+                    "height": 221
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.6745141744613647,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.7716197\"}, {\"color\": \"Silver\", \"prob\": \"0.114095576\"}, {\"color\": \"Grey\", \"prob\": \"0.034005266\"}]",
+                "model_info": "[{\"make\": \"Fiat\", \"model\": \"Punto\", \"prob\": \"0.11838273\"}, {\"make\": \"Ford\", \"model\": \"Fiesta\", \"prob\": \"0.04641278\"}, {\"make\": \"Ford\", \"model\": \"Kuga\", \"prob\": \"0.04632646\"}]",
+                "bbox": {
+                    "x": 66,
+                    "y": 111,
+                    "width": 133,
+                    "height": 188
+                }
+            }
+        ],
+        "plates": [
+            {
+                "vehicle_id": null,
+                "vehicle_type": null,
+                "detection_confidence": 0.76,
+                "color_info": null,
+                "model_info": null,
+                "bbox": null,
+                "recognition_text": "M500HYE",
+                "recognition_confidence": 0.81,
+                "detection_bbox": {
+                    "xmin": 303,
+                    "ymin": 298,
+                    "xmax": 465,
+                    "ymax": 344
+                }
+            }
+        ]
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\6.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.8204708695411682,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.3093566\"}, {\"color\": \"Grey\", \"prob\": \"0.16600448\"}, {\"color\": \"Black\", \"prob\": \"0.16430013\"}]",
+                "model_info": "[{\"make\": \"Jeep\", \"model\": \"Wrangler\", \"prob\": \"0.016831309\"}, {\"make\": \"Chevrolet\", \"model\": \"Chevy\", \"prob\": \"0.013173692\"}, {\"make\": \"Ford\", \"model\": \"Mustang\", \"prob\": \"0.0119169755\"}]",
+                "bbox": {
+                    "x": 48,
+                    "y": 106,
+                    "width": 96,
+                    "height": 61
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.84,
+                "color_info": "[{\"color\": \"Silver\", \"prob\": \"0.7629464\"}, {\"color\": \"Grey\", \"prob\": \"0.21200408\"}, {\"color\": \"Beige\", \"prob\": \"0.007811423\"}]",
+                "model_info": "[{\"make\": \"Fiat\", \"model\": \"Albea\", \"prob\": \"0.9818124\"}, {\"make\": \"Fiat\", \"model\": \"Siena\", \"prob\": \"0.0070770658\"}, {\"make\": \"Fiat\", \"model\": \"Palio\", \"prob\": \"0.0047723157\"}]",
+                "bbox": {
+                    "x": 336,
+                    "y": 267,
+                    "width": 606,
+                    "height": 360
+                },
+                "recognition_text": "470P864",
+                "recognition_confidence": 0.91,
+                "detection_bbox": {
+                    "xmin": 455,
+                    "ymin": 233,
+                    "xmax": 565,
+                    "ymax": 284
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\7.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "truck",
+                "detection_confidence": 0.7,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.6860584\"}, {\"color\": \"Black\", \"prob\": \"0.11181824\"}, {\"color\": \"Grey\", \"prob\": \"0.07100655\"}]",
+                "model_info": "[{\"make\": \"Volvo\", \"model\": \"Trucks\", \"prob\": \"0.36198267\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"Actros\", \"prob\": \"0.24229702\"}, {\"make\": \"Volvo\", \"model\": \"460\", \"prob\": \"0.14070149\"}]",
+                "bbox": {
+                    "x": 308,
+                    "y": 173,
+                    "width": 425,
+                    "height": 298
+                },
+                "recognition_text": null,
+                "recognition_confidence": null,
+                "detection_bbox": {
+                    "xmin": 59,
+                    "ymin": 263,
+                    "xmax": 102,
+                    "ymax": 279
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\8.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "truck",
+                "detection_confidence": 0.78,
+                "color_info": "[{\"color\": \"Red\", \"prob\": \"0.94556206\"}, {\"color\": \"White\", \"prob\": \"0.021671208\"}, {\"color\": \"Black\", \"prob\": \"0.0068545556\"}]",
+                "model_info": "[{\"make\": \"Volvo\", \"model\": \"Trucks\", \"prob\": \"0.5963363\"}, {\"make\": \"Mitsubishi\", \"model\": \"Canter\", \"prob\": \"0.06527271\"}, {\"make\": \"Chevrolet\", \"model\": \"Chevy\", \"prob\": \"0.02777084\"}]",
+                "bbox": {
+                    "x": 255,
+                    "y": 230,
+                    "width": 487,
+                    "height": 461
+                },
+                "recognition_text": "34868042",
+                "recognition_confidence": 0.94,
+                "detection_bbox": {
+                    "xmin": 71,
+                    "ymin": 423,
+                    "xmax": 130,
+                    "ymax": 449
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\9.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.71,
+                "color_info": "[{\"color\": \"Grey\", \"prob\": \"0.767992\"}, {\"color\": \"Silver\", \"prob\": \"0.2056008\"}, {\"color\": \"Black\", \"prob\": \"0.011347892\"}]",
+                "model_info": "[{\"make\": \"Mercedes-Benz\", \"model\": \"C-Class\", \"prob\": \"0.21470873\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"220\", \"prob\": \"0.18941909\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"450\", \"prob\": \"0.16740489\"}]",
+                "bbox": {
+                    "x": 333,
+                    "y": 285,
+                    "width": 631,
+                    "height": 312
+                },
+                "recognition_text": "32AV133",
+                "recognition_confidence": 0.94,
+                "detection_bbox": {
+                    "xmin": 63,
+                    "ymin": 217,
+                    "xmax": 159,
+                    "ymax": 254
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\10.jpg",
+        "docName": "multipage_dms_189d5685d0c4e6001f227fb3",
+        "vehicles": [],
+        "plates": [
+            {
+                "vehicle_id": null,
+                "vehicle_type": null,
+                "detection_confidence": 0.8,
+                "color_info": null,
+                "model_info": null,
+                "bbox": null,
+                "recognition_text": "61VZ999",
+                "recognition_confidence": 0.94,
+                "detection_bbox": {
+                    "xmin": 267,
+                    "ymin": 284,
+                    "xmax": 380,
+                    "ymax": 330
+                }
+            }
+        ]
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\11.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "truck",
+                "detection_confidence": 0.71,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.9667522\"}, {\"color\": \"Grey\", \"prob\": \"0.00840553\"}, {\"color\": \"Black\", \"prob\": \"0.0067249625\"}]",
+                "model_info": "[{\"make\": \"Mercedes-Benz\", \"model\": \"Actros\", \"prob\": \"0.35290545\"}, {\"make\": \"Iveco\", \"model\": \"Daily\", \"prob\": \"0.29450774\"}, {\"make\": \"Volvo\", \"model\": \"Trucks\", \"prob\": \"0.10551451\"}]",
+                "bbox": {
+                    "x": 341,
+                    "y": 254,
+                    "width": 504,
+                    "height": 450
+                },
+                "recognition_text": "0782528",
+                "recognition_confidence": 0.76,
+                "detection_bbox": {
+                    "xmin": 72,
+                    "ymin": 340,
+                    "xmax": 130,
+                    "ymax": 369
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\12.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.78,
+                "color_info": "[{\"color\": \"Black\", \"prob\": \"0.9285601\"}, {\"color\": \"Green\", \"prob\": \"0.028906167\"}, {\"color\": \"Blue\", \"prob\": \"0.016367136\"}]",
+                "model_info": "[{\"make\": \"Mercedes-Benz\", \"model\": \"E-Class\", \"prob\": \"0.42141116\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"W124\", \"prob\": \"0.24677937\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"W201\", \"prob\": \"0.03624263\"}]",
+                "bbox": {
+                    "x": 293,
+                    "y": 330,
+                    "width": 447,
+                    "height": 279
+                },
+                "recognition_text": "42AGA62",
+                "recognition_confidence": 0.92,
+                "detection_bbox": {
+                    "xmin": 48,
+                    "ymin": 217,
+                    "xmax": 147,
+                    "ymax": 255
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.64,
+                "color_info": "[{\"color\": \"Black\", \"prob\": \"0.3491239\"}, {\"color\": \"Grey\", \"prob\": \"0.24939802\"}, {\"color\": \"Brown\", \"prob\": \"0.10672447\"}]",
+                "model_info": "[{\"make\": \"Nissan\", \"model\": \"Navara\", \"prob\": \"0.019360825\"}, {\"make\": \"Renault\", \"model\": \"Twizy\", \"prob\": \"0.018456707\"}, {\"make\": \"Toyota\", \"model\": \"Land Cruiser\", \"prob\": \"0.01781534\"}]",
+                "bbox": {
+                    "x": 528,
+                    "y": 214,
+                    "width": 97,
+                    "height": 106
+                },
+                "recognition_text": null,
+                "recognition_confidence": null,
+                "detection_bbox": {
+                    "xmin": 87,
+                    "ymin": 38,
+                    "xmax": 96,
+                    "ymax": 53
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\13.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.8,
+                "color_info": "[{\"color\": \"Yellow\", \"prob\": \"0.7414773\"}, {\"color\": \"Orange\", \"prob\": \"0.23377389\"}, {\"color\": \"Blue\", \"prob\": \"0.0060852407\"}]",
+                "model_info": "[{\"make\": \"Hyundai\", \"model\": \"Solaris\", \"prob\": \"0.602939\"}, {\"make\": \"Hyundai\", \"model\": \"Accent\", \"prob\": \"0.37666386\"}, {\"make\": \"Hyundai\", \"model\": \"Verna\", \"prob\": \"0.0143467495\"}]",
+                "bbox": {
+                    "x": 334,
+                    "y": 317,
+                    "width": 345,
+                    "height": 216
+                },
+                "recognition_text": "60T0049",
+                "recognition_confidence": 0.96,
+                "detection_bbox": {
+                    "xmin": 249,
+                    "ymin": 143,
+                    "xmax": 320,
+                    "ymax": 176
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\14.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [],
+        "plates": [
+            {
+                "vehicle_id": null,
+                "vehicle_type": null,
+                "detection_confidence": 0.78,
+                "color_info": null,
+                "model_info": null,
+                "bbox": null,
+                "recognition_text": "34ESH296",
+                "recognition_confidence": 0.92,
+                "detection_bbox": {
+                    "xmin": 469,
+                    "ymin": 388,
+                    "xmax": 572,
+                    "ymax": 428
+                }
+            }
+        ]
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\15.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.9164999723434448,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.51076674\"}, {\"color\": \"Silver\", \"prob\": \"0.23674594\"}, {\"color\": \"Grey\", \"prob\": \"0.11200204\"}]",
+                "model_info": "[{\"make\": \"Audi\", \"model\": \"TT\", \"prob\": \"0.021285154\"}, {\"make\": \"Audi\", \"model\": \"A4\", \"prob\": \"0.018315261\"}, {\"make\": \"Audi\", \"model\": \"R8\", \"prob\": \"0.016689837\"}]",
+                "bbox": {
+                    "x": 592,
+                    "y": 222,
+                    "width": 131,
+                    "height": 92
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.7418934106826782,
+                "color_info": "[{\"color\": \"Black\", \"prob\": \"0.27408063\"}, {\"color\": \"Grey\", \"prob\": \"0.16046374\"}, {\"color\": \"Blue\", \"prob\": \"0.14559606\"}]",
+                "model_info": "[{\"make\": \"Honda\", \"model\": \"Civic\", \"prob\": \"0.035776008\"}, {\"make\": \"Volkswagen\", \"model\": \"Golf\", \"prob\": \"0.024002114\"}, {\"make\": \"Subaru\", \"model\": \"WRX\", \"prob\": \"0.02237085\"}]",
+                "bbox": {
+                    "x": 21,
+                    "y": 183,
+                    "width": 42,
+                    "height": 46
+                }
+            }
+        ],
+        "plates": [
+            {
+                "vehicle_id": null,
+                "vehicle_type": null,
+                "detection_confidence": 0.77,
+                "color_info": null,
+                "model_info": null,
+                "bbox": null,
+                "recognition_text": "81BK904",
+                "recognition_confidence": 0.94,
+                "detection_bbox": {
+                    "xmin": 397,
+                    "ymin": 376,
+                    "xmax": 522,
+                    "ymax": 423
+                }
+            }
+        ]
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\16.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.8728316426277161,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.2306143\"}, {\"color\": \"Black\", \"prob\": \"0.21719699\"}, {\"color\": \"Grey\", \"prob\": \"0.19967909\"}]",
+                "model_info": "[{\"make\": \"Volkswagen\", \"model\": \"Golf\", \"prob\": \"0.0170373\"}, {\"make\": \"BMW\", \"model\": \"3 Series\", \"prob\": \"0.015568223\"}, {\"make\": \"Honda\", \"model\": \"Civic\", \"prob\": \"0.014349787\"}]",
+                "bbox": {
+                    "x": 169,
+                    "y": 153,
+                    "width": 91,
+                    "height": 32
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.77,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.99675435\"}, {\"color\": \"Violet\", \"prob\": \"0.0008263178\"}, {\"color\": \"Black\", \"prob\": \"0.0005417388\"}]",
+                "model_info": "[{\"make\": \"Ford\", \"model\": \"Transit\", \"prob\": \"0.7436834\"}, {\"make\": \"Ford\", \"model\": \"Tourneo-Custom\", \"prob\": \"0.12689042\"}, {\"make\": \"Ford\", \"model\": \"Tourneo Connect\", \"prob\": \"0.10612532\"}]",
+                "bbox": {
+                    "x": 355,
+                    "y": 218,
+                    "width": 249,
+                    "height": 236
+                },
+                "recognition_text": "65BK020",
+                "recognition_confidence": 0.96,
+                "detection_bbox": {
+                    "xmin": 70,
+                    "ymin": 185,
+                    "xmax": 153,
+                    "ymax": 216
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\17.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.76,
+                "color_info": "[{\"color\": \"Blue\", \"prob\": \"0.87722117\"}, {\"color\": \"Grey\", \"prob\": \"0.117208324\"}, {\"color\": \"Black\", \"prob\": \"0.0018749223\"}]",
+                "model_info": "[{\"make\": \"Peugeot\", \"model\": \"Partner\", \"prob\": \"0.9805972\"}, {\"make\": \"Citroen\", \"model\": \"Berlingo\", \"prob\": \"0.010088025\"}, {\"make\": \"Peugeot\", \"model\": \"Expert\", \"prob\": \"0.0045765075\"}]",
+                "bbox": {
+                    "x": 335,
+                    "y": 205,
+                    "width": 327,
+                    "height": 236
+                },
+                "recognition_text": "058J657",
+                "recognition_confidence": 0.7,
+                "detection_bbox": {
+                    "xmin": 251,
+                    "ymin": 161,
+                    "xmax": 310,
+                    "ymax": 198
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\18.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "truck",
+                "detection_confidence": 0.72,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.97388554\"}, {\"color\": \"Grey\", \"prob\": \"0.013558714\"}, {\"color\": \"Beige\", \"prob\": \"0.005314555\"}]",
+                "model_info": "[{\"make\": \"Isuzu\", \"model\": \"NPR\", \"prob\": \"0.8937901\"}, {\"make\": \"Tata\", \"model\": \"Super Ace\", \"prob\": \"0.017828293\"}, {\"make\": \"Mitsubishi\", \"model\": \"Canter\", \"prob\": \"0.012397017\"}]",
+                "bbox": {
+                    "x": 494,
+                    "y": 267,
+                    "width": 564,
+                    "height": 523
+                },
+                "recognition_text": "45SC0875",
+                "recognition_confidence": 0.99,
+                "detection_bbox": {
+                    "xmin": 72,
+                    "ymin": 435,
+                    "xmax": 164,
+                    "ymax": 493
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\19.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "truck",
+                "detection_confidence": 0.79,
+                "color_info": "[{\"color\": \"Red\", \"prob\": \"0.9959912\"}, {\"color\": \"White\", \"prob\": \"0.0014249149\"}, {\"color\": \"Black\", \"prob\": \"0.0007491732\"}]",
+                "model_info": "[{\"make\": \"MAN\", \"model\": \"TGL\", \"prob\": \"0.38933912\"}, {\"make\": \"Volvo\", \"model\": \"Trucks\", \"prob\": \"0.1914059\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"Actros\", \"prob\": \"0.18342961\"}]",
+                "bbox": {
+                    "x": 579,
+                    "y": 416,
+                    "width": 528,
+                    "height": 580
+                },
+                "recognition_text": "46AFJ125",
+                "recognition_confidence": 0.91,
+                "detection_bbox": {
+                    "xmin": 244,
+                    "ymin": 519,
+                    "xmax": 349,
+                    "ymax": 552
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\20.jpg",
+        "docName": "multipage_dms_189d5685d0c4e6001f227fb3",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.72,
+                "color_info": "[{\"color\": \"Grey\", \"prob\": \"0.98247683\"}, {\"color\": \"Blue\", \"prob\": \"0.011998921\"}, {\"color\": \"Silver\", \"prob\": \"0.0027836417\"}]",
+                "model_info": "[{\"make\": \"Peugeot\", \"model\": \"301\", \"prob\": \"0.98516774\"}, {\"make\": \"Opel\", \"model\": \"Astra\", \"prob\": \"0.010895238\"}, {\"make\": \"Peugeot\", \"model\": \"205\", \"prob\": \"0.0009540221\"}]",
+                "bbox": {
+                    "x": 341,
+                    "y": 244,
+                    "width": 649,
+                    "height": 487
+                },
+                "recognition_text": "34RD9328",
+                "recognition_confidence": 0.99,
+                "detection_bbox": {
+                    "xmin": 195,
+                    "ymin": 411,
+                    "xmax": 444,
+                    "ymax": 483
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\21.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.629335880279541,
+                "color_info": "[{\"color\": \"Black\", \"prob\": \"0.22089472\"}, {\"color\": \"Grey\", \"prob\": \"0.1709731\"}, {\"color\": \"White\", \"prob\": \"0.16336331\"}]",
+                "model_info": "[{\"make\": \"Lamborghini\", \"model\": \"Aventador\", \"prob\": \"0.034855813\"}, {\"make\": \"Porsche\", \"model\": \"911\", \"prob\": \"0.029854784\"}, {\"make\": \"Porsche\", \"model\": \"Cayenne\", \"prob\": \"0.021250699\"}]",
+                "bbox": {
+                    "x": 64,
+                    "y": 196,
+                    "width": 61,
+                    "height": 125
+                }
+            }
+        ],
+        "plates": [
+            {
+                "vehicle_id": null,
+                "vehicle_type": null,
+                "detection_confidence": 0.78,
+                "color_info": null,
+                "model_info": null,
+                "bbox": null,
+                "recognition_text": "06BCP654",
+                "recognition_confidence": 0.98,
+                "detection_bbox": {
+                    "xmin": 341,
+                    "ymin": 168,
+                    "xmax": 498,
+                    "ymax": 216
+                }
+            }
+        ]
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\22.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.82,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.9871783\"}, {\"color\": \"Black\", \"prob\": \"0.005352946\"}, {\"color\": \"Grey\", \"prob\": \"0.0026893378\"}]",
+                "model_info": "[{\"make\": \"Lamborghini\", \"model\": \"Aventador\", \"prob\": \"0.89599365\"}, {\"make\": \"Audi\", \"model\": \"R8\", \"prob\": \"0.015531438\"}, {\"make\": \"Lamborghini\", \"model\": \"Murcielago\", \"prob\": \"0.012694731\"}]",
+                "bbox": {
+                    "x": 624,
+                    "y": 222,
+                    "width": 326,
+                    "height": 241
+                },
+                "recognition_text": "34DRD",
+                "recognition_confidence": 0.97,
+                "detection_bbox": {
+                    "xmin": 111,
+                    "ymin": 150,
+                    "xmax": 185,
+                    "ymax": 193
+                }
+            },
+            {
+                "vehicle_id": 3,
+                "vehicle_type": "car",
+                "detection_confidence": 0.7981166839599609,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.9581187\"}, {\"color\": \"Black\", \"prob\": \"0.012452147\"}, {\"color\": \"Red\", \"prob\": \"0.00906377\"}]",
+                "model_info": "[{\"make\": \"Lamborghini\", \"model\": \"Aventador\", \"prob\": \"0.78384143\"}, {\"make\": \"Lamborghini\", \"model\": \"Huracan\", \"prob\": \"0.024410196\"}, {\"make\": \"Ford\", \"model\": \"Mustang\", \"prob\": \"0.012279685\"}]",
+                "bbox": {
+                    "x": 274,
+                    "y": 216,
+                    "width": 361,
+                    "height": 342
+                }
+            },
+            {
+                "vehicle_id": 7,
+                "vehicle_type": "car",
+                "detection_confidence": 0.6330865025520325,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.34442782\"}, {\"color\": \"Silver\", \"prob\": \"0.14162405\"}, {\"color\": \"Black\", \"prob\": \"0.13742167\"}]",
+                "model_info": "[{\"make\": \"Volkswagen\", \"model\": \"Golf\", \"prob\": \"0.032977134\"}, {\"make\": \"Ford\", \"model\": \"Focus\", \"prob\": \"0.027851377\"}, {\"make\": \"Volkswagen\", \"model\": \"Beetle\", \"prob\": \"0.022094768\"}]",
+                "bbox": {
+                    "x": 425,
+                    "y": 37,
+                    "width": 77,
+                    "height": 31
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\23.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.74,
+                "color_info": "[{\"color\": \"Black\", \"prob\": \"0.86550164\"}, {\"color\": \"Grey\", \"prob\": \"0.033960685\"}, {\"color\": \"Blue\", \"prob\": \"0.029560503\"}]",
+                "model_info": "[{\"make\": \"Mercedes-Benz\", \"model\": \"GLC-Class\", \"prob\": \"0.2413179\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"GLC 250\", \"prob\": \"0.18135342\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"GLC 43\", \"prob\": \"0.049447805\"}]",
+                "bbox": {
+                    "x": 335,
+                    "y": 195,
+                    "width": 266,
+                    "height": 236
+                },
+                "recognition_text": "34F81907",
+                "recognition_confidence": 0.95,
+                "detection_bbox": {
+                    "xmin": 103,
+                    "ymin": 83,
+                    "xmax": 170,
+                    "ymax": 102
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.71,
+                "color_info": "[{\"color\": \"Black\", \"prob\": \"0.5680012\"}, {\"color\": \"Grey\", \"prob\": \"0.17455275\"}, {\"color\": \"Brown\", \"prob\": \"0.061353255\"}]",
+                "model_info": "[{\"make\": \"Volkswagen\", \"model\": \"Golf\", \"prob\": \"0.06805639\"}, {\"make\": \"BMW\", \"model\": \"1 Series\", \"prob\": \"0.06683254\"}, {\"make\": \"BMW\", \"model\": \"3 Series\", \"prob\": \"0.035117723\"}]",
+                "bbox": {
+                    "x": 156,
+                    "y": 190,
+                    "width": 128,
+                    "height": 113
+                },
+                "recognition_text": null,
+                "recognition_confidence": null,
+                "detection_bbox": {
+                    "xmin": 45,
+                    "ymin": 67,
+                    "xmax": 89,
+                    "ymax": 81
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\24.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "truck",
+                "detection_confidence": 0.76,
+                "color_info": "[{\"color\": \"Grey\", \"prob\": \"0.45551428\"}, {\"color\": \"White\", \"prob\": \"0.2815259\"}, {\"color\": \"Silver\", \"prob\": \"0.08535026\"}]",
+                "model_info": "[{\"make\": \"Mercedes-Benz\", \"model\": \"Actros\", \"prob\": \"0.72821105\"}, {\"make\": \"Volvo\", \"model\": \"Trucks\", \"prob\": \"0.24012385\"}, {\"make\": \"Volvo\", \"model\": \"460\", \"prob\": \"0.008918952\"}]",
+                "bbox": {
+                    "x": 599,
+                    "y": 441,
+                    "width": 940,
+                    "height": 800
+                },
+                "recognition_text": "26AJN588",
+                "recognition_confidence": 0.95,
+                "detection_bbox": {
+                    "xmin": 702,
+                    "ymin": 651,
+                    "xmax": 798,
+                    "ymax": 687
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\25.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.8,
+                "color_info": "[{\"color\": \"Grey\", \"prob\": \"0.6020859\"}, {\"color\": \"Brown\", \"prob\": \"0.3495206\"}, {\"color\": \"Black\", \"prob\": \"0.014337233\"}]",
+                "model_info": "[{\"make\": \"Nissan\", \"model\": \"Micra\", \"prob\": \"0.95467633\"}, {\"make\": \"Nissan\", \"model\": \"March\", \"prob\": \"0.044549406\"}, {\"make\": \"Kia\", \"model\": \"Sportage\", \"prob\": \"0.00019893177\"}]",
+                "bbox": {
+                    "x": 537,
+                    "y": 371,
+                    "width": 992,
+                    "height": 598
+                },
+                "recognition_text": "01EJJ33",
+                "recognition_confidence": 0.91,
+                "detection_bbox": {
+                    "xmin": 123,
+                    "ymin": 389,
+                    "xmax": 327,
+                    "ymax": 461
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\26.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.76,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.9607679\"}, {\"color\": \"Silver\", \"prob\": \"0.010793327\"}, {\"color\": \"Grey\", \"prob\": \"0.009116342\"}]",
+                "model_info": "[{\"make\": \"Toyota\", \"model\": \"Avensis\", \"prob\": \"0.9916136\"}, {\"make\": \"Toyota\", \"model\": \"Sai\", \"prob\": \"0.002354397\"}, {\"make\": \"Toyota\", \"model\": \"Corolla\", \"prob\": \"0.0013523415\"}]",
+                "bbox": {
+                    "x": 278,
+                    "y": 215,
+                    "width": 534,
+                    "height": 291
+                },
+                "recognition_text": "81ABR894",
+                "recognition_confidence": 0.91,
+                "detection_bbox": {
+                    "xmin": 54,
+                    "ymin": 209,
+                    "xmax": 182,
+                    "ymax": 253
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\27.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.81,
+                "color_info": "[{\"color\": \"Grey\", \"prob\": \"0.5200727\"}, {\"color\": \"Silver\", \"prob\": \"0.47004205\"}, {\"color\": \"White\", \"prob\": \"0.005585997\"}]",
+                "model_info": "[{\"make\": \"Dacia\", \"model\": \"Sandero\", \"prob\": \"0.9846281\"}, {\"make\": \"Dacia\", \"model\": \"Logan\", \"prob\": \"0.010052581\"}, {\"make\": \"Dacia\", \"model\": \"Stepway\", \"prob\": \"0.00394305\"}]",
+                "bbox": {
+                    "x": 251,
+                    "y": 159,
+                    "width": 501,
+                    "height": 316
+                },
+                "recognition_text": "932HS435",
+                "recognition_confidence": 0.89,
+                "detection_bbox": {
+                    "xmin": 362,
+                    "ymin": 216,
+                    "xmax": 461,
+                    "ymax": 255
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\28.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.74,
+                "color_info": "[{\"color\": \"Black\", \"prob\": \"0.86550164\"}, {\"color\": \"Grey\", \"prob\": \"0.033960685\"}, {\"color\": \"Blue\", \"prob\": \"0.029560503\"}]",
+                "model_info": "[{\"make\": \"Mercedes-Benz\", \"model\": \"GLC-Class\", \"prob\": \"0.2413179\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"GLC 250\", \"prob\": \"0.18135342\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"GLC 43\", \"prob\": \"0.049447805\"}]",
+                "bbox": {
+                    "x": 335,
+                    "y": 195,
+                    "width": 266,
+                    "height": 236
+                },
+                "recognition_text": "34F81907",
+                "recognition_confidence": 0.95,
+                "detection_bbox": {
+                    "xmin": 103,
+                    "ymin": 83,
+                    "xmax": 170,
+                    "ymax": 102
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.71,
+                "color_info": "[{\"color\": \"Black\", \"prob\": \"0.5680012\"}, {\"color\": \"Grey\", \"prob\": \"0.17455275\"}, {\"color\": \"Brown\", \"prob\": \"0.061353255\"}]",
+                "model_info": "[{\"make\": \"Volkswagen\", \"model\": \"Golf\", \"prob\": \"0.06805639\"}, {\"make\": \"BMW\", \"model\": \"1 Series\", \"prob\": \"0.06683254\"}, {\"make\": \"BMW\", \"model\": \"3 Series\", \"prob\": \"0.035117723\"}]",
+                "bbox": {
+                    "x": 156,
+                    "y": 190,
+                    "width": 128,
+                    "height": 113
+                },
+                "recognition_text": null,
+                "recognition_confidence": null,
+                "detection_bbox": {
+                    "xmin": 45,
+                    "ymin": 67,
+                    "xmax": 89,
+                    "ymax": 81
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\29.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.58,
+                "color_info": "[{\"color\": \"Gold\", \"prob\": \"0.8949277\"}, {\"color\": \"Yellow\", \"prob\": \"0.03779137\"}, {\"color\": \"Brown\", \"prob\": \"0.03356098\"}]",
+                "model_info": "[{\"make\": \"Tofas\", \"model\": \"Dogan\", \"prob\": \"0.6484587\"}, {\"make\": \"Honda\", \"model\": \"Civic\", \"prob\": \"0.15206088\"}, {\"make\": \"Chevrolet\", \"model\": \"Opala\", \"prob\": \"0.044340614\"}]",
+                "bbox": {
+                    "x": 163,
+                    "y": 117,
+                    "width": 247,
+                    "height": 149
+                },
+                "recognition_text": null,
+                "recognition_confidence": null,
+                "detection_bbox": {
+                    "xmin": 185,
+                    "ymin": 114,
+                    "xmax": 229,
+                    "ymax": 135
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.8310192823410034,
+                "color_info": "[{\"color\": \"Grey\", \"prob\": \"0.23811753\"}, {\"color\": \"White\", \"prob\": \"0.21930611\"}, {\"color\": \"Black\", \"prob\": \"0.1550806\"}]",
+                "model_info": "[{\"make\": \"Ford\", \"model\": \"Mustang\", \"prob\": \"0.018169416\"}, {\"make\": \"Jeep\", \"model\": \"Wrangler\", \"prob\": \"0.014804801\"}, {\"make\": \"Lamborghini\", \"model\": \"Aventador\", \"prob\": \"0.013152879\"}]",
+                "bbox": {
+                    "x": 16,
+                    "y": 52,
+                    "width": 33,
+                    "height": 34
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\30.jpg",
+        "docName": "multipage_dms_189d5685d0c4e6001f227fb3",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "truck",
+                "detection_confidence": 0.6426581740379333,
+                "color_info": "[{\"color\": \"Black\", \"prob\": \"0.9882605\"}, {\"color\": \"Grey\", \"prob\": \"0.0055680117\"}, {\"color\": \"Green\", \"prob\": \"0.002241326\"}]",
+                "model_info": "[{\"make\": \"Mercedes-Benz\", \"model\": \"G-Class\", \"prob\": \"0.62592036\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"G 350\", \"prob\": \"0.15885171\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"G 63 AMG\", \"prob\": \"0.07726693\"}]",
+                "bbox": {
+                    "x": 316,
+                    "y": 217,
+                    "width": 632,
+                    "height": 301
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\31.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.9081324338912964,
+                "color_info": "[{\"color\": \"Blue\", \"prob\": \"0.51504046\"}, {\"color\": \"Grey\", \"prob\": \"0.4351017\"}, {\"color\": \"Black\", \"prob\": \"0.021823768\"}]",
+                "model_info": "[{\"make\": \"Fiat\", \"model\": \"Tipo\", \"prob\": \"0.7426312\"}, {\"make\": \"BMW\", \"model\": \"5 Series\", \"prob\": \"0.07712394\"}, {\"make\": \"Fiat\", \"model\": \"Egea/Tipo\", \"prob\": \"0.052881245\"}]",
+                "bbox": {
+                    "x": 287,
+                    "y": 174,
+                    "width": 542,
+                    "height": 287
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\32.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.8,
+                "color_info": "[{\"color\": \"Silver\", \"prob\": \"0.57856876\"}, {\"color\": \"Grey\", \"prob\": \"0.20454958\"}, {\"color\": \"Brown\", \"prob\": \"0.075143695\"}]",
+                "model_info": "[{\"make\": \"BMW\", \"model\": \"5 Series\", \"prob\": \"0.95163614\"}, {\"make\": \"BMW\", \"model\": \"F10\", \"prob\": \"0.03808113\"}, {\"make\": \"BMW\", \"model\": \"M5\", \"prob\": \"0.0051677767\"}]",
+                "bbox": {
+                    "x": 302,
+                    "y": 311,
+                    "width": 420,
+                    "height": 232
+                },
+                "recognition_text": "34JST21",
+                "recognition_confidence": 0.9,
+                "detection_bbox": {
+                    "xmin": 38,
+                    "ymin": 98,
+                    "xmax": 109,
+                    "ymax": 138
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\33.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.75,
+                "color_info": "[{\"color\": \"Silver\", \"prob\": \"0.52814597\"}, {\"color\": \"Grey\", \"prob\": \"0.46754226\"}, {\"color\": \"Blue\", \"prob\": \"0.0013361773\"}]",
+                "model_info": "[{\"make\": \"Hyundai\", \"model\": \"Accent\", \"prob\": \"0.9199323\"}, {\"make\": \"Hyundai\", \"model\": \"Verna\", \"prob\": \"0.047229376\"}, {\"make\": \"Geely\", \"model\": \"Emgrand\", \"prob\": \"0.015806347\"}]",
+                "bbox": {
+                    "x": 276,
+                    "y": 180,
+                    "width": 465,
+                    "height": 306
+                },
+                "recognition_text": "25LL052",
+                "recognition_confidence": 0.89,
+                "detection_bbox": {
+                    "xmin": 362,
+                    "ymin": 199,
+                    "xmax": 452,
+                    "ymax": 266
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.8147394061088562,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.26651788\"}, {\"color\": \"Black\", \"prob\": \"0.20939825\"}, {\"color\": \"Grey\", \"prob\": \"0.19565047\"}]",
+                "model_info": "[{\"make\": \"Lamborghini\", \"model\": \"Aventador\", \"prob\": \"0.018938271\"}, {\"make\": \"Volkswagen\", \"model\": \"Beetle\", \"prob\": \"0.012606735\"}, {\"make\": \"Ford\", \"model\": \"Mustang\", \"prob\": \"0.010737017\"}]",
+                "bbox": {
+                    "x": 17,
+                    "y": 74,
+                    "width": 35,
+                    "height": 39
+                }
+            },
+            {
+                "vehicle_id": 3,
+                "vehicle_type": "car",
+                "detection_confidence": 0.7102783918380737,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.42036042\"}, {\"color\": \"Black\", \"prob\": \"0.16594864\"}, {\"color\": \"Grey\", \"prob\": \"0.11849104\"}]",
+                "model_info": "[{\"make\": \"Ford\", \"model\": \"Mustang\", \"prob\": \"0.011458149\"}, {\"make\": \"Honda\", \"model\": \"Civic\", \"prob\": \"0.010493004\"}, {\"make\": \"Jeep\", \"model\": \"Wrangler\", \"prob\": \"0.01030263\"}]",
+                "bbox": {
+                    "x": 499,
+                    "y": 61,
+                    "width": 51,
+                    "height": 26
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\34.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.7,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.9957759\"}, {\"color\": \"Silver\", \"prob\": \"0.0011537824\"}, {\"color\": \"Black\", \"prob\": \"0.0010077683\"}]",
+                "model_info": "[{\"make\": \"Mercedes-Benz\", \"model\": \"CLS-Class\", \"prob\": \"0.23561864\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"C-Class\", \"prob\": \"0.18565026\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"E-Class\", \"prob\": \"0.090625525\"}]",
+                "bbox": {
+                    "x": 213,
+                    "y": 212,
+                    "width": 409,
+                    "height": 367
+                },
+                "recognition_text": "06CPA239",
+                "recognition_confidence": 0.99,
+                "detection_bbox": {
+                    "xmin": 124,
+                    "ymin": 291,
+                    "xmax": 289,
+                    "ymax": 339
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\35.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.42,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.99172795\"}, {\"color\": \"Silver\", \"prob\": \"0.005249103\"}, {\"color\": \"Grey\", \"prob\": \"0.0010843992\"}]",
+                "model_info": "[{\"make\": \"Volkswagen\", \"model\": \"Passat\", \"prob\": \"0.9648282\"}, {\"make\": \"Volkswagen\", \"model\": \"Passat (B8)\", \"prob\": \"0.028161434\"}, {\"make\": \"Volkswagen\", \"model\": \"CC\", \"prob\": \"0.003549401\"}]",
+                "bbox": {
+                    "x": 324,
+                    "y": 110,
+                    "width": 620,
+                    "height": 214
+                },
+                "recognition_text": null,
+                "recognition_confidence": null,
+                "detection_bbox": {
+                    "xmin": 21,
+                    "ymin": 36,
+                    "xmax": 40,
+                    "ymax": 49
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.8315473198890686,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.2063986\"}, {\"color\": \"Silver\", \"prob\": \"0.20265166\"}, {\"color\": \"Grey\", \"prob\": \"0.18197241\"}]",
+                "model_info": "[{\"make\": \"Opel\", \"model\": \"Astra\", \"prob\": \"0.06283977\"}, {\"make\": \"Vauxhall\", \"model\": \"Astra\", \"prob\": \"0.033590633\"}, {\"make\": \"Tofas\", \"model\": \"Dogan\", \"prob\": \"0.027223494\"}]",
+                "bbox": {
+                    "x": 48,
+                    "y": 31,
+                    "width": 80,
+                    "height": 61
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\36.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.8636951446533203,
+                "color_info": "[{\"color\": \"Silver\", \"prob\": \"0.73738277\"}, {\"color\": \"Grey\", \"prob\": \"0.19218083\"}, {\"color\": \"Beige\", \"prob\": \"0.03729296\"}]",
+                "model_info": "[{\"make\": \"Volkswagen\", \"model\": \"Golf\", \"prob\": \"0.9990676\"}, {\"make\": \"Volkswagen\", \"model\": \"California\", \"prob\": \"0.0002922939\"}, {\"make\": \"Volkswagen\", \"model\": \"E-Golf\", \"prob\": \"0.00017623871\"}]",
+                "bbox": {
+                    "x": 307,
+                    "y": 152,
+                    "width": 604,
+                    "height": 222
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\37.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.78,
+                "color_info": "[{\"color\": \"Black\", \"prob\": \"0.979912\"}, {\"color\": \"Blue\", \"prob\": \"0.005812207\"}, {\"color\": \"Brown\", \"prob\": \"0.005651971\"}]",
+                "model_info": "[{\"make\": \"Volkswagen\", \"model\": \"Passat (B8)\", \"prob\": \"0.6118748\"}, {\"make\": \"Volkswagen\", \"model\": \"Passat\", \"prob\": \"0.37301704\"}, {\"make\": \"Audi\", \"model\": \"A6\", \"prob\": \"0.0044982387\"}]",
+                "bbox": {
+                    "x": 325,
+                    "y": 166,
+                    "width": 602,
+                    "height": 263
+                },
+                "recognition_text": "AYKA",
+                "recognition_confidence": 0.97,
+                "detection_bbox": {
+                    "xmin": 514,
+                    "ymin": 169,
+                    "xmax": 582,
+                    "ymax": 211
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\38.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "bus",
+                "detection_confidence": 0.67,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.9943183\"}, {\"color\": \"Beige\", \"prob\": \"0.0020969342\"}, {\"color\": \"Grey\", \"prob\": \"0.0010912053\"}]",
+                "model_info": "[{\"make\": \"Mercedes-Benz\", \"model\": \"Marco Polo\", \"prob\": \"0.4099209\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"Actros\", \"prob\": \"0.1430259\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"500\", \"prob\": \"0.13136716\"}]",
+                "bbox": {
+                    "x": 317,
+                    "y": 195,
+                    "width": 454,
+                    "height": 339
+                },
+                "recognition_text": null,
+                "recognition_confidence": null,
+                "detection_bbox": {
+                    "xmin": 32,
+                    "ymin": 291,
+                    "xmax": 69,
+                    "ymax": 315
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\39.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.6551001071929932,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.97152585\"}, {\"color\": \"Silver\", \"prob\": \"0.008668146\"}, {\"color\": \"Black\", \"prob\": \"0.0054998444\"}]",
+                "model_info": "[{\"make\": \"Renault\", \"model\": \"Fluence\", \"prob\": \"0.9781747\"}, {\"make\": \"Renault\", \"model\": \"Fluence Z.E.\", \"prob\": \"0.0064056786\"}, {\"make\": \"Buick\", \"model\": \"LaCrosse\", \"prob\": \"0.0040031006\"}]",
+                "bbox": {
+                    "x": 319,
+                    "y": 149,
+                    "width": 633,
+                    "height": 217
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\40.jpg",
+        "docName": "multipage_dms_189d5685d0c4e6001f227fb3",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.9114915728569031,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.99708074\"}, {\"color\": \"Beige\", \"prob\": \"0.00077830546\"}, {\"color\": \"Blue\", \"prob\": \"0.00063855253\"}]",
+                "model_info": "[{\"make\": \"Hyundai\", \"model\": \"Accent\", \"prob\": \"0.8919614\"}, {\"make\": \"Hyundai\", \"model\": \"Solaris\", \"prob\": \"0.09794331\"}, {\"make\": \"Hyundai\", \"model\": \"Verna\", \"prob\": \"0.009065288\"}]",
+                "bbox": {
+                    "x": 318,
+                    "y": 162,
+                    "width": 614,
+                    "height": 240
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\41.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\42.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.71,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.99203604\"}, {\"color\": \"Silver\", \"prob\": \"0.0025959336\"}, {\"color\": \"Grey\", \"prob\": \"0.0019808882\"}]",
+                "model_info": "[{\"make\": \"Renault\", \"model\": \"Kangoo\", \"prob\": \"0.93400997\"}, {\"make\": \"Fiat\", \"model\": \"147\", \"prob\": \"0.060810786\"}, {\"make\": \"Fiat\", \"model\": \"Qubo\", \"prob\": \"0.0012564529\"}]",
+                "bbox": {
+                    "x": 288,
+                    "y": 246,
+                    "width": 508,
+                    "height": 344
+                },
+                "recognition_text": null,
+                "recognition_confidence": null,
+                "detection_bbox": {
+                    "xmin": 9,
+                    "ymin": 221,
+                    "xmax": 82,
+                    "ymax": 292
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\43.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "motorcycle",
+                "detection_confidence": 0.8529093861579895,
+                "color_info": "[{\"color\": \"Black\", \"prob\": \"0.20754841\"}, {\"color\": \"White\", \"prob\": \"0.18029849\"}, {\"color\": \"Red\", \"prob\": \"0.14563167\"}]",
+                "model_info": "[{\"make\": \"Chevrolet\", \"model\": \"Chevy\", \"prob\": \"0.016270893\"}, {\"make\": \"Honda\", \"model\": \"Civic\", \"prob\": \"0.016238254\"}, {\"make\": \"Volkswagen\", \"model\": \"Beetle\", \"prob\": \"0.015760412\"}]",
+                "bbox": {
+                    "x": 558,
+                    "y": 59,
+                    "width": 104,
+                    "height": 62
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.8506571054458618,
+                "color_info": "[{\"color\": \"Grey\", \"prob\": \"0.96410245\"}, {\"color\": \"Silver\", \"prob\": \"0.015602731\"}, {\"color\": \"Brown\", \"prob\": \"0.0060820896\"}]",
+                "model_info": "[{\"make\": \"Renault\", \"model\": \"Megane\", \"prob\": \"0.99846786\"}, {\"make\": \"Renault\", \"model\": \"Sport\", \"prob\": \"0.0010905227\"}, {\"make\": \"Renault\", \"model\": \"Megane Sport\", \"prob\": \"0.0003203426\"}]",
+                "bbox": {
+                    "x": 308,
+                    "y": 151,
+                    "width": 615,
+                    "height": 232
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\44.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "bus",
+                "detection_confidence": 0.54,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.99277544\"}, {\"color\": \"Grey\", \"prob\": \"0.002879607\"}, {\"color\": \"Beige\", \"prob\": \"0.0019033803\"}]",
+                "model_info": "[{\"make\": \"Fiat\", \"model\": \"Ducato\", \"prob\": \"0.7535208\"}, {\"make\": \"Peugeot\", \"model\": \"Boxer\", \"prob\": \"0.22475635\"}, {\"make\": \"Citroen\", \"model\": \"Jumper\", \"prob\": \"0.020015415\"}]",
+                "bbox": {
+                    "x": 262,
+                    "y": 147,
+                    "width": 380,
+                    "height": 193
+                },
+                "recognition_text": null,
+                "recognition_confidence": null,
+                "detection_bbox": {
+                    "xmin": 331,
+                    "ymin": 146,
+                    "xmax": 369,
+                    "ymax": 168
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\45.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.71,
+                "color_info": "[{\"color\": \"Silver\", \"prob\": \"0.28483173\"}, {\"color\": \"Grey\", \"prob\": \"0.23023051\"}, {\"color\": \"Black\", \"prob\": \"0.18057331\"}]",
+                "model_info": "[{\"make\": \"Mercedes-Benz\", \"model\": \"E-Class\", \"prob\": \"0.26958966\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"E 63 AMG\", \"prob\": \"0.05675675\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"E 250\", \"prob\": \"0.036552664\"}]",
+                "bbox": {
+                    "x": 411,
+                    "y": 192,
+                    "width": 155,
+                    "height": 98
+                },
+                "recognition_text": null,
+                "recognition_confidence": null,
+                "detection_bbox": {
+                    "xmin": 83,
+                    "ymin": 72,
+                    "xmax": 121,
+                    "ymax": 84
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.76,
+                "color_info": "[{\"color\": \"Red\", \"prob\": \"0.9799666\"}, {\"color\": \"Black\", \"prob\": \"0.00576744\"}, {\"color\": \"White\", \"prob\": \"0.0048201703\"}]",
+                "model_info": "[{\"make\": \"Audi\", \"model\": \"A6\", \"prob\": \"0.5140234\"}, {\"make\": \"Audi\", \"model\": \"S6\", \"prob\": \"0.36733356\"}, {\"make\": \"Audi\", \"model\": \"RS 6\", \"prob\": \"0.039770816\"}]",
+                "bbox": {
+                    "x": 190,
+                    "y": 228,
+                    "width": 229,
+                    "height": 167
+                },
+                "recognition_text": "INS6009",
+                "recognition_confidence": 0.98,
+                "detection_bbox": {
+                    "xmin": 75,
+                    "ymin": 117,
+                    "xmax": 145,
+                    "ymax": 138
+                }
+            },
+            {
+                "vehicle_id": 3,
+                "vehicle_type": "car",
+                "detection_confidence": 0.36,
+                "color_info": "[{\"color\": \"Black\", \"prob\": \"0.26329333\"}, {\"color\": \"White\", \"prob\": \"0.19538456\"}, {\"color\": \"Grey\", \"prob\": \"0.18283387\"}]",
+                "model_info": "[{\"make\": \"BMW\", \"model\": \"5 Series\", \"prob\": \"0.09443639\"}, {\"make\": \"BMW\", \"model\": \"3 Series\", \"prob\": \"0.04219507\"}, {\"make\": \"BMW\", \"model\": \"1 Series\", \"prob\": \"0.03444709\"}]",
+                "bbox": {
+                    "x": 507,
+                    "y": 174,
+                    "width": 112,
+                    "height": 59
+                },
+                "recognition_text": null,
+                "recognition_confidence": null,
+                "detection_bbox": {
+                    "xmin": 73,
+                    "ymin": 38,
+                    "xmax": 93,
+                    "ymax": 44
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\46.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.78,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.9733373\"}, {\"color\": \"Grey\", \"prob\": \"0.008119328\"}, {\"color\": \"Silver\", \"prob\": \"0.007998952\"}]",
+                "model_info": "[{\"make\": \"BMW\", \"model\": \"4 Series\", \"prob\": \"0.68660367\"}, {\"make\": \"BMW\", \"model\": \"428i\", \"prob\": \"0.19065823\"}, {\"make\": \"BMW\", \"model\": \"M4\", \"prob\": \"0.045525707\"}]",
+                "bbox": {
+                    "x": 604,
+                    "y": 322,
+                    "width": 345,
+                    "height": 243
+                },
+                "recognition_text": "34NG1432",
+                "recognition_confidence": 0.97,
+                "detection_bbox": {
+                    "xmin": 48,
+                    "ymin": 146,
+                    "xmax": 125,
+                    "ymax": 180
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.76,
+                "color_info": "[{\"color\": \"Grey\", \"prob\": \"0.75466025\"}, {\"color\": \"Silver\", \"prob\": \"0.08627425\"}, {\"color\": \"Blue\", \"prob\": \"0.049207985\"}]",
+                "model_info": "[{\"make\": \"Mercedes-Benz\", \"model\": \"C-Class\", \"prob\": \"0.5091864\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"C250\", \"prob\": \"0.059110243\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"AMG C 63\", \"prob\": \"0.052067783\"}]",
+                "bbox": {
+                    "x": 187,
+                    "y": 311,
+                    "width": 373,
+                    "height": 237
+                },
+                "recognition_text": "34NS6453",
+                "recognition_confidence": 0.9,
+                "detection_bbox": {
+                    "xmin": 274,
+                    "ymin": 153,
+                    "xmax": 344,
+                    "ymax": 185
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\47.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.79,
+                "color_info": "[{\"color\": \"Grey\", \"prob\": \"0.6551613\"}, {\"color\": \"Black\", \"prob\": \"0.10390633\"}, {\"color\": \"White\", \"prob\": \"0.084765494\"}]",
+                "model_info": "[{\"make\": \"Renault\", \"model\": \"Megane\", \"prob\": \"0.9762574\"}, {\"make\": \"Renault\", \"model\": \"Laguna\", \"prob\": \"0.014064797\"}, {\"make\": \"Renault\", \"model\": \"Sport\", \"prob\": \"0.0039014984\"}]",
+                "bbox": {
+                    "x": 158,
+                    "y": 135,
+                    "width": 311,
+                    "height": 184
+                },
+                "recognition_text": "MEGANE",
+                "recognition_confidence": 0.98,
+                "detection_bbox": {
+                    "xmin": 222,
+                    "ymin": 114,
+                    "xmax": 280,
+                    "ymax": 134
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.76,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.25545484\"}, {\"color\": \"Grey\", \"prob\": \"0.22987491\"}, {\"color\": \"Silver\", \"prob\": \"0.13440076\"}]",
+                "model_info": "[{\"make\": \"Toyota\", \"model\": \"Avensis\", \"prob\": \"0.8171343\"}, {\"make\": \"Toyota\", \"model\": \"Corolla\", \"prob\": \"0.09084822\"}, {\"make\": \"Toyota\", \"model\": \"Auris\", \"prob\": \"0.011093521\"}]",
+                "bbox": {
+                    "x": 455,
+                    "y": 273,
+                    "width": 465,
+                    "height": 213
+                },
+                "recognition_text": "AVENSIS",
+                "recognition_confidence": 0.97,
+                "detection_bbox": {
+                    "xmin": 29,
+                    "ymin": 131,
+                    "xmax": 107,
+                    "ymax": 161
+                }
+            },
+            {
+                "vehicle_id": 3,
+                "vehicle_type": "car",
+                "detection_confidence": 0.73,
+                "color_info": "[{\"color\": \"Blue\", \"prob\": \"0.36885545\"}, {\"color\": \"White\", \"prob\": \"0.31785014\"}, {\"color\": \"Black\", \"prob\": \"0.11393205\"}]",
+                "model_info": "[{\"make\": \"Dacia\", \"model\": \"Sandero\", \"prob\": \"0.85496247\"}, {\"make\": \"Dacia\", \"model\": \"Duster\", \"prob\": \"0.05898476\"}, {\"make\": \"Dacia\", \"model\": \"Stepway\", \"prob\": \"0.030878682\"}]",
+                "bbox": {
+                    "x": 459,
+                    "y": 97,
+                    "width": 252,
+                    "height": 142
+                },
+                "recognition_text": "SandsoRepaay",
+                "recognition_confidence": 0.66,
+                "detection_bbox": {
+                    "xmin": 26,
+                    "ymin": 90,
+                    "xmax": 74,
+                    "ymax": 107
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\48.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "truck",
+                "detection_confidence": 0.72,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.93586874\"}, {\"color\": \"Grey\", \"prob\": \"0.034184173\"}, {\"color\": \"Silver\", \"prob\": \"0.018744526\"}]",
+                "model_info": "[{\"make\": \"Mercedes-Benz\", \"model\": \"Actros\", \"prob\": \"0.607743\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"Atego\", \"prob\": \"0.3671861\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"Sprinter\", \"prob\": \"0.005373368\"}]",
+                "bbox": {
+                    "x": 483,
+                    "y": 288,
+                    "width": 322,
+                    "height": 339
+                },
+                "recognition_text": null,
+                "recognition_confidence": null,
+                "detection_bbox": {
+                    "xmin": 152,
+                    "ymin": 260,
+                    "xmax": 225,
+                    "ymax": 282
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "truck",
+                "detection_confidence": 0.76,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.9180754\"}, {\"color\": \"Silver\", \"prob\": \"0.05353839\"}, {\"color\": \"Grey\", \"prob\": \"0.024429562\"}]",
+                "model_info": "[{\"make\": \"Mercedes-Benz\", \"model\": \"Actros\", \"prob\": \"0.72338265\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"Atego\", \"prob\": \"0.19428997\"}, {\"make\": \"Iveco\", \"model\": \"Daily\", \"prob\": \"0.02626351\"}]",
+                "bbox": {
+                    "x": 177,
+                    "y": 289,
+                    "width": 290,
+                    "height": 313
+                },
+                "recognition_text": "27YG913",
+                "recognition_confidence": 0.93,
+                "detection_bbox": {
+                    "xmin": 107,
+                    "ymin": 243,
+                    "xmax": 177,
+                    "ymax": 265
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\49.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.824042558670044,
+                "color_info": "[{\"color\": \"Yellow\", \"prob\": \"0.81252736\"}, {\"color\": \"White\", \"prob\": \"0.075861365\"}, {\"color\": \"Grey\", \"prob\": \"0.023581212\"}]",
+                "model_info": "[{\"make\": \"Lamborghini\", \"model\": \"Aventador\", \"prob\": \"0.028801618\"}, {\"make\": \"Ford\", \"model\": \"Transit\", \"prob\": \"0.020657234\"}, {\"make\": \"Lamborghini\", \"model\": \"Huracan\", \"prob\": \"0.016803712\"}]",
+                "bbox": {
+                    "x": 83,
+                    "y": 152,
+                    "width": 95,
+                    "height": 106
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.72,
+                "color_info": "[{\"color\": \"Yellow\", \"prob\": \"0.9177574\"}, {\"color\": \"Orange\", \"prob\": \"0.058705445\"}, {\"color\": \"Blue\", \"prob\": \"0.0050221207\"}]",
+                "model_info": "[{\"make\": \"Fiat\", \"model\": \"Egea/Tipo\", \"prob\": \"0.9149807\"}, {\"make\": \"Honda\", \"model\": \"Civic\", \"prob\": \"0.03656322\"}, {\"make\": \"Fiat\", \"model\": \"Tipo\", \"prob\": \"0.035199415\"}]",
+                "bbox": {
+                    "x": 230,
+                    "y": 256,
+                    "width": 307,
+                    "height": 233
+                },
+                "recognition_text": "34TCL85",
+                "recognition_confidence": 0.99,
+                "detection_bbox": {
+                    "xmin": 103,
+                    "ymin": 111,
+                    "xmax": 227,
+                    "ymax": 156
+                }
+            },
+            {
+                "vehicle_id": 3,
+                "vehicle_type": "car",
+                "detection_confidence": 0.6856045126914978,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.24190535\"}, {\"color\": \"Black\", \"prob\": \"0.1869176\"}, {\"color\": \"Grey\", \"prob\": \"0.14715084\"}]",
+                "model_info": "[{\"make\": \"Toyota\", \"model\": \"Land Cruiser\", \"prob\": \"0.01383563\"}, {\"make\": \"Toyota\", \"model\": \"Corolla\", \"prob\": \"0.011952605\"}, {\"make\": \"Tofas\", \"model\": \"Dogan\", \"prob\": \"0.010511032\"}]",
+                "bbox": {
+                    "x": 394,
+                    "y": 221,
+                    "width": 23,
+                    "height": 92
+                }
+            },
+            {
+                "vehicle_id": 4,
+                "vehicle_type": "car",
+                "detection_confidence": 0.62,
+                "color_info": "[{\"color\": \"Yellow\", \"prob\": \"0.8253317\"}, {\"color\": \"White\", \"prob\": \"0.07344272\"}, {\"color\": \"Black\", \"prob\": \"0.017200742\"}]",
+                "model_info": "[{\"make\": \"Ford\", \"model\": \"Mustang\", \"prob\": \"0.013510395\"}, {\"make\": \"Lamborghini\", \"model\": \"Aventador\", \"prob\": \"0.012776182\"}, {\"make\": \"BMW\", \"model\": \"M4\", \"prob\": \"0.01094819\"}]",
+                "bbox": {
+                    "x": 349,
+                    "y": 187,
+                    "width": 101,
+                    "height": 71
+                },
+                "recognition_text": null,
+                "recognition_confidence": null,
+                "detection_bbox": {
+                    "xmin": 60,
+                    "ymin": 54,
+                    "xmax": 78,
+                    "ymax": 64
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\50.jpg",
+        "docName": "multipage_dms_189d5685d0c4e6001f227fb3",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.72,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.2268956\"}, {\"color\": \"Red\", \"prob\": \"0.21743158\"}, {\"color\": \"Black\", \"prob\": \"0.13577776\"}]",
+                "model_info": "[{\"make\": \"Renault\", \"model\": \"Clio\", \"prob\": \"0.6292041\"}, {\"make\": \"Renault\", \"model\": \"Sport\", \"prob\": \"0.31189477\"}, {\"make\": \"Renault\", \"model\": \"Megane\", \"prob\": \"0.01986035\"}]",
+                "bbox": {
+                    "x": 397,
+                    "y": 273,
+                    "width": 489,
+                    "height": 341
+                },
+                "recognition_text": null,
+                "recognition_confidence": null,
+                "detection_bbox": {
+                    "xmin": 357,
+                    "ymin": 266,
+                    "xmax": 449,
+                    "ymax": 318
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\51.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.6647005081176758,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.98954785\"}, {\"color\": \"Black\", \"prob\": \"0.005429902\"}, {\"color\": \"Grey\", \"prob\": \"0.003390428\"}]",
+                "model_info": "[{\"make\": \"Citroen\", \"model\": \"C4\", \"prob\": \"0.5526293\"}, {\"make\": \"Citroen\", \"model\": \"C-Elysee\", \"prob\": \"0.39066386\"}, {\"make\": \"Volkswagen\", \"model\": \"Polo\", \"prob\": \"0.034521878\"}]",
+                "bbox": {
+                    "x": 351,
+                    "y": 365,
+                    "width": 662,
+                    "height": 467
+                }
+            }
+        ],
+        "plates": [
+            {
+                "vehicle_id": null,
+                "vehicle_type": null,
+                "detection_confidence": 0.74,
+                "color_info": null,
+                "model_info": null,
+                "bbox": null,
+                "recognition_text": "34GVK938",
+                "recognition_confidence": 0.99,
+                "detection_bbox": {
+                    "xmin": 211,
+                    "ymin": 456,
+                    "xmax": 438,
+                    "ymax": 516
+                }
+            }
+        ]
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\52.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [],
+        "plates": [
+            {
+                "vehicle_id": null,
+                "vehicle_type": null,
+                "detection_confidence": 0.8,
+                "color_info": null,
+                "model_info": null,
+                "bbox": null,
+                "recognition_text": "34TM7020",
+                "recognition_confidence": 0.95,
+                "detection_bbox": {
+                    "xmin": 175,
+                    "ymin": 240,
+                    "xmax": 330,
+                    "ymax": 286
+                }
+            }
+        ]
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\53.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [],
+        "plates": [
+            {
+                "vehicle_id": null,
+                "vehicle_type": null,
+                "detection_confidence": 0.79,
+                "color_info": null,
+                "model_info": null,
+                "bbox": null,
+                "recognition_text": "34KG0597",
+                "recognition_confidence": 0.93,
+                "detection_bbox": {
+                    "xmin": 411,
+                    "ymin": 245,
+                    "xmax": 518,
+                    "ymax": 290
+                }
+            }
+        ]
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\54.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.76,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.9928948\"}, {\"color\": \"Black\", \"prob\": \"0.0018545312\"}, {\"color\": \"Silver\", \"prob\": \"0.0013977305\"}]",
+                "model_info": "[{\"make\": \"Fiat\", \"model\": \"Albea\", \"prob\": \"0.9973943\"}, {\"make\": \"Fiat\", \"model\": \"Palio\", \"prob\": \"0.0023529134\"}, {\"make\": \"Fiat\", \"model\": \"Punto\", \"prob\": \"0.0001653934\"}]",
+                "bbox": {
+                    "x": 471,
+                    "y": 487,
+                    "width": 812,
+                    "height": 688
+                },
+                "recognition_text": "34FSN090",
+                "recognition_confidence": 0.96,
+                "detection_bbox": {
+                    "xmin": 275,
+                    "ymin": 444,
+                    "xmax": 566,
+                    "ymax": 527
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\55.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.77,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.96666914\"}, {\"color\": \"Grey\", \"prob\": \"0.021609355\"}, {\"color\": \"Blue\", \"prob\": \"0.006256684\"}]",
+                "model_info": "[{\"make\": \"Ford\", \"model\": \"C-Max\", \"prob\": \"0.76537514\"}, {\"make\": \"Ford\", \"model\": \"Grand C-MAX\", \"prob\": \"0.23029347\"}, {\"make\": \"Ford\", \"model\": \"S-MAX\", \"prob\": \"0.0022346089\"}]",
+                "bbox": {
+                    "x": 263,
+                    "y": 258,
+                    "width": 468,
+                    "height": 453
+                },
+                "recognition_text": "31AIC557",
+                "recognition_confidence": 0.88,
+                "detection_bbox": {
+                    "xmin": 142,
+                    "ymin": 365,
+                    "xmax": 324,
+                    "ymax": 416
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\56.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.78,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.9918584\"}, {\"color\": \"Grey\", \"prob\": \"0.0031395683\"}, {\"color\": \"Silver\", \"prob\": \"0.001867365\"}]",
+                "model_info": "[{\"make\": \"Honda\", \"model\": \"Civic\", \"prob\": \"0.94706285\"}, {\"make\": \"Honda\", \"model\": \"Life\", \"prob\": \"0.04296648\"}, {\"make\": \"Honda\", \"model\": \"Ballade\", \"prob\": \"0.0030390823\"}]",
+                "bbox": {
+                    "x": 283,
+                    "y": 173,
+                    "width": 522,
+                    "height": 286
+                },
+                "recognition_text": "54TK886",
+                "recognition_confidence": 0.91,
+                "detection_bbox": {
+                    "xmin": 410,
+                    "ymin": 206,
+                    "xmax": 499,
+                    "ymax": 255
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\57.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.78,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.9960051\"}, {\"color\": \"Blue\", \"prob\": \"0.001161239\"}, {\"color\": \"Silver\", \"prob\": \"0.0011064685\"}]",
+                "model_info": "[{\"make\": \"Hyundai\", \"model\": \"Accent\", \"prob\": \"0.7603174\"}, {\"make\": \"Hyundai\", \"model\": \"Solaris\", \"prob\": \"0.23556319\"}, {\"make\": \"Hyundai\", \"model\": \"Verna\", \"prob\": \"0.0037935486\"}]",
+                "bbox": {
+                    "x": 478,
+                    "y": 406,
+                    "width": 952,
+                    "height": 659
+                },
+                "recognition_text": "41ABU067",
+                "recognition_confidence": 0.93,
+                "detection_bbox": {
+                    "xmin": 515,
+                    "ymin": 479,
+                    "xmax": 762,
+                    "ymax": 552
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\58.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [],
+        "plates": [
+            {
+                "vehicle_id": null,
+                "vehicle_type": null,
+                "detection_confidence": 0.77,
+                "color_info": null,
+                "model_info": null,
+                "bbox": null,
+                "recognition_text": "06DPJ321",
+                "recognition_confidence": 0.98,
+                "detection_bbox": {
+                    "xmin": 314,
+                    "ymin": 400,
+                    "xmax": 501,
+                    "ymax": 457
+                }
+            }
+        ]
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\59.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.8846923112869263,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.9049146\"}, {\"color\": \"Beige\", \"prob\": \"0.03939881\"}, {\"color\": \"Gold\", \"prob\": \"0.020195\"}]",
+                "model_info": "[{\"make\": \"Mitsubishi\", \"model\": \"Outlander\", \"prob\": \"0.1732577\"}, {\"make\": \"Mitsubishi\", \"model\": \"Lancer\", \"prob\": \"0.109180175\"}, {\"make\": \"Suzuki\", \"model\": \"Grand Vitara\", \"prob\": \"0.09488923\"}]",
+                "bbox": {
+                    "x": 874,
+                    "y": 187,
+                    "width": 170,
+                    "height": 120
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.73,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.43911693\"}, {\"color\": \"Silver\", \"prob\": \"0.150812\"}, {\"color\": \"Black\", \"prob\": \"0.12754229\"}]",
+                "model_info": "[{\"make\": \"Mitsubishi\", \"model\": \"Outlander\", \"prob\": \"0.043544978\"}, {\"make\": \"BMW\", \"model\": \"3 Series\", \"prob\": \"0.033291645\"}, {\"make\": \"BMW\", \"model\": \"5 Series\", \"prob\": \"0.028660407\"}]",
+                "bbox": {
+                    "x": 1027,
+                    "y": 189,
+                    "width": 190,
+                    "height": 112
+                },
+                "recognition_text": null,
+                "recognition_confidence": null,
+                "detection_bbox": {
+                    "xmin": 145,
+                    "ymin": 46,
+                    "xmax": 185,
+                    "ymax": 61
+                }
+            },
+            {
+                "vehicle_id": 3,
+                "vehicle_type": "car",
+                "detection_confidence": 0.59,
+                "color_info": "[{\"color\": \"Silver\", \"prob\": \"0.8262108\"}, {\"color\": \"Grey\", \"prob\": \"0.07541249\"}, {\"color\": \"White\", \"prob\": \"0.04382688\"}]",
+                "model_info": "[{\"make\": \"Toyota\", \"model\": \"Corolla\", \"prob\": \"0.028217994\"}, {\"make\": \"Toyota\", \"model\": \"Land Cruiser Prado\", \"prob\": \"0.02025724\"}, {\"make\": \"Toyota\", \"model\": \"Land Cruiser\", \"prob\": \"0.016189557\"}]",
+                "bbox": {
+                    "x": 230,
+                    "y": 184,
+                    "width": 191,
+                    "height": 97
+                },
+                "recognition_text": null,
+                "recognition_confidence": null,
+                "detection_bbox": {
+                    "xmin": 30,
+                    "ymin": 35,
+                    "xmax": 68,
+                    "ymax": 49
+                }
+            },
+            {
+                "vehicle_id": 4,
+                "vehicle_type": "car",
+                "detection_confidence": 0.7956375479698181,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.3213099\"}, {\"color\": \"Silver\", \"prob\": \"0.17660694\"}, {\"color\": \"Black\", \"prob\": \"0.15536585\"}]",
+                "model_info": "[{\"make\": \"Toyota\", \"model\": \"Corolla\", \"prob\": \"0.10096592\"}, {\"make\": \"Toyota\", \"model\": \"Camry\", \"prob\": \"0.059558388\"}, {\"make\": \"Toyota\", \"model\": \"RAV4\", \"prob\": \"0.024589987\"}]",
+                "bbox": {
+                    "x": 72,
+                    "y": 180,
+                    "width": 144,
+                    "height": 105
+                }
+            },
+            {
+                "vehicle_id": 5,
+                "vehicle_type": "car",
+                "detection_confidence": 0.73,
+                "color_info": "[{\"color\": \"Silver\", \"prob\": \"0.85744786\"}, {\"color\": \"Grey\", \"prob\": \"0.13589728\"}, {\"color\": \"Black\", \"prob\": \"0.0017678934\"}]",
+                "model_info": "[{\"make\": \"Toyota\", \"model\": \"Corolla\", \"prob\": \"0.99882203\"}, {\"make\": \"Toyota\", \"model\": \"RunX\", \"prob\": \"0.0009718605\"}, {\"make\": \"Toyota\", \"model\": \"Corolla Verso\", \"prob\": \"0.00015756022\"}]",
+                "bbox": {
+                    "x": 586,
+                    "y": 431,
+                    "width": 799,
+                    "height": 678
+                },
+                "recognition_text": "41AEG629DEVREMOTO",
+                "recognition_confidence": 0.83,
+                "detection_bbox": {
+                    "xmin": 208,
+                    "ymin": 509,
+                    "xmax": 560,
+                    "ymax": 628
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\60.jpg",
+        "docName": "multipage_dms_189d5685d0c4e6001f227fb3",
+        "vehicles": [],
+        "plates": [
+            {
+                "vehicle_id": null,
+                "vehicle_type": null,
+                "detection_confidence": 0.74,
+                "color_info": null,
+                "model_info": null,
+                "bbox": null,
+                "recognition_text": "34ES2336",
+                "recognition_confidence": 0.91,
+                "detection_bbox": {
+                    "xmin": 137,
+                    "ymin": 124,
+                    "xmax": 227,
+                    "ymax": 152
+                }
+            }
+        ]
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\61.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.8,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.99786144\"}, {\"color\": \"Silver\", \"prob\": \"0.00067199895\"}, {\"color\": \"Black\", \"prob\": \"0.00051422184\"}]",
+                "model_info": "[{\"make\": \"Ford\", \"model\": \"Focus\", \"prob\": \"0.9350938\"}, {\"make\": \"Ford\", \"model\": \"Fiesta\", \"prob\": \"0.037789114\"}, {\"make\": \"Chevrolet\", \"model\": \"Aveo\", \"prob\": \"0.007817048\"}]",
+                "bbox": {
+                    "x": 2113,
+                    "y": 1785,
+                    "width": 1344,
+                    "height": 755
+                },
+                "recognition_text": "33N7600",
+                "recognition_confidence": 0.93,
+                "detection_bbox": {
+                    "xmin": 851,
+                    "ymin": 302,
+                    "xmax": 1150,
+                    "ymax": 402
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\62.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [],
+        "plates": [
+            {
+                "vehicle_id": null,
+                "vehicle_type": null,
+                "detection_confidence": 0.55,
+                "color_info": null,
+                "model_info": null,
+                "bbox": null,
+                "recognition_text": "41UH635",
+                "recognition_confidence": 0.99,
+                "detection_bbox": {
+                    "xmin": 609,
+                    "ymin": 1267,
+                    "xmax": 910,
+                    "ymax": 1364
+                }
+            }
+        ]
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\63.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.74,
+                "color_info": "[{\"color\": \"Blue\", \"prob\": \"0.99104124\"}, {\"color\": \"Green\", \"prob\": \"0.002460331\"}, {\"color\": \"White\", \"prob\": \"0.002400095\"}]",
+                "model_info": "[{\"make\": \"Opel\", \"model\": \"Astra\", \"prob\": \"0.88782316\"}, {\"make\": \"Vauxhall\", \"model\": \"Astra\", \"prob\": \"0.06553915\"}, {\"make\": \"Holden\", \"model\": \"Astra\", \"prob\": \"0.02560116\"}]",
+                "bbox": {
+                    "x": 534,
+                    "y": 352,
+                    "width": 968,
+                    "height": 587
+                },
+                "recognition_text": "ANS894",
+                "recognition_confidence": 0.84,
+                "detection_bbox": {
+                    "xmin": 14,
+                    "ymin": 391,
+                    "xmax": 173,
+                    "ymax": 494
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\64.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 3,
+                "vehicle_type": "car",
+                "detection_confidence": 0.8221011161804199,
+                "color_info": "[{\"color\": \"Grey\", \"prob\": \"0.52162814\"}, {\"color\": \"Black\", \"prob\": \"0.41426554\"}, {\"color\": \"Silver\", \"prob\": \"0.02172168\"}]",
+                "model_info": "[{\"make\": \"Nissan\", \"model\": \"X-Trail\", \"prob\": \"0.90524125\"}, {\"make\": \"Nissan\", \"model\": \"Kicks\", \"prob\": \"0.038407587\"}, {\"make\": \"Nissan\", \"model\": \"Qashqai\", \"prob\": \"0.01383764\"}]",
+                "bbox": {
+                    "x": 422,
+                    "y": 342,
+                    "width": 450,
+                    "height": 230
+                }
+            }
+        ],
+        "plates": [
+            {
+                "vehicle_id": null,
+                "vehicle_type": null,
+                "detection_confidence": 0.46,
+                "color_info": null,
+                "model_info": null,
+                "bbox": null,
+                "recognition_text": "1FAT87",
+                "recognition_confidence": 0.95,
+                "detection_bbox": {
+                    "xmin": 569,
+                    "ymin": 382,
+                    "xmax": 624,
+                    "ymax": 407
+                }
+            }
+        ]
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\65.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.77,
+                "color_info": "[{\"color\": \"Grey\", \"prob\": \"0.43925825\"}, {\"color\": \"Brown\", \"prob\": \"0.21994205\"}, {\"color\": \"Beige\", \"prob\": \"0.15533306\"}]",
+                "model_info": "[{\"make\": \"Honda\", \"model\": \"City\", \"prob\": \"0.31991294\"}, {\"make\": \"Honda\", \"model\": \"Fit\", \"prob\": \"0.26932487\"}, {\"make\": \"Honda\", \"model\": \"Jazz\", \"prob\": \"0.14364485\"}]",
+                "bbox": {
+                    "x": 165,
+                    "y": 253,
+                    "width": 199,
+                    "height": 170
+                },
+                "recognition_text": "33SN817",
+                "recognition_confidence": 0.9,
+                "detection_bbox": {
+                    "xmin": 107,
+                    "ymin": 126,
+                    "xmax": 171,
+                    "ymax": 149
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.6119630336761475,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.3447027\"}, {\"color\": \"Black\", \"prob\": \"0.16534594\"}, {\"color\": \"Grey\", \"prob\": \"0.15008287\"}]",
+                "model_info": "[{\"make\": \"BMW\", \"model\": \"3 Series\", \"prob\": \"0.021560961\"}, {\"make\": \"Toyota\", \"model\": \"Corolla\", \"prob\": \"0.017328916\"}, {\"make\": \"BMW\", \"model\": \"5 Series\", \"prob\": \"0.016978437\"}]",
+                "bbox": {
+                    "x": 38,
+                    "y": 217,
+                    "width": 75,
+                    "height": 105
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\66.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.8312563896179199,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.24584797\"}, {\"color\": \"Black\", \"prob\": \"0.19458736\"}, {\"color\": \"Silver\", \"prob\": \"0.152018\"}]",
+                "model_info": "[{\"make\": \"Ford\", \"model\": \"Mustang\", \"prob\": \"0.018328624\"}, {\"make\": \"BMW\", \"model\": \"5 Series\", \"prob\": \"0.011695194\"}, {\"make\": \"Lamborghini\", \"model\": \"Aventador\", \"prob\": \"0.011622323\"}]",
+                "bbox": {
+                    "x": 29,
+                    "y": 113,
+                    "width": 59,
+                    "height": 28
+                }
+            },
+            {
+                "vehicle_id": 3,
+                "vehicle_type": "car",
+                "detection_confidence": 0.6921526789665222,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.9919525\"}, {\"color\": \"Grey\", \"prob\": \"0.0030184956\"}, {\"color\": \"Black\", \"prob\": \"0.001287835\"}]",
+                "model_info": "[{\"make\": \"Renault\", \"model\": \"Clio\", \"prob\": \"0.8609379\"}, {\"make\": \"Renault\", \"model\": \"Sport\", \"prob\": \"0.05689516\"}, {\"make\": \"Renault\", \"model\": \"Clio Sport\", \"prob\": \"0.04377306\"}]",
+                "bbox": {
+                    "x": 154,
+                    "y": 157,
+                    "width": 153,
+                    "height": 116
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\67.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.8732810020446777,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.21016027\"}, {\"color\": \"Black\", \"prob\": \"0.19779116\"}, {\"color\": \"Silver\", \"prob\": \"0.12851661\"}]",
+                "model_info": "[{\"make\": \"Hyundai\", \"model\": \"Santa Fe\", \"prob\": \"0.03966271\"}, {\"make\": \"Kia\", \"model\": \"Sportage\", \"prob\": \"0.033565458\"}, {\"make\": \"Honda\", \"model\": \"CR-V\", \"prob\": \"0.030017205\"}]",
+                "bbox": {
+                    "x": 1053,
+                    "y": 720,
+                    "width": 291,
+                    "height": 638
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.8290777802467346,
+                "color_info": "[{\"color\": \"Silver\", \"prob\": \"0.1610504\"}, {\"color\": \"Black\", \"prob\": \"0.1282934\"}, {\"color\": \"Red\", \"prob\": \"0.121718585\"}]",
+                "model_info": "[{\"make\": \"Lada\", \"model\": \"2107\", \"prob\": \"0.05856914\"}, {\"make\": \"Lada\", \"model\": \"2114\", \"prob\": \"0.04359917\"}, {\"make\": \"Lada\", \"model\": \"2109\", \"prob\": \"0.038541798\"}]",
+                "bbox": {
+                    "x": 111,
+                    "y": 660,
+                    "width": 223,
+                    "height": 402
+                }
+            },
+            {
+                "vehicle_id": 3,
+                "vehicle_type": "car",
+                "detection_confidence": 0.6758973598480225,
+                "color_info": "[{\"color\": \"Green\", \"prob\": \"0.8035115\"}, {\"color\": \"Blue\", \"prob\": \"0.16930377\"}, {\"color\": \"Grey\", \"prob\": \"0.013406452\"}]",
+                "model_info": "[{\"make\": \"Tofas\", \"model\": \"Dogan\", \"prob\": \"0.8344551\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"190\", \"prob\": \"0.091402516\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"W201\", \"prob\": \"0.02773131\"}]",
+                "bbox": {
+                    "x": 594,
+                    "y": 742,
+                    "width": 755,
+                    "height": 599
+                }
+            },
+            {
+                "vehicle_id": 4,
+                "vehicle_type": "truck",
+                "detection_confidence": 0.73,
+                "color_info": "[{\"color\": \"Green\", \"prob\": \"0.7603887\"}, {\"color\": \"Blue\", \"prob\": \"0.083400704\"}, {\"color\": \"White\", \"prob\": \"0.068269655\"}]",
+                "model_info": "[{\"make\": \"Opel\", \"model\": \"Combo\", \"prob\": \"0.07085186\"}, {\"make\": \"Volkswagen\", \"model\": \"Transporter\", \"prob\": \"0.06848467\"}, {\"make\": \"Ford\", \"model\": \"Transit\", \"prob\": \"0.05923532\"}]",
+                "bbox": {
+                    "x": 800,
+                    "y": 444,
+                    "width": 282,
+                    "height": 243
+                },
+                "recognition_text": "34RSO78",
+                "recognition_confidence": 0.9,
+                "detection_bbox": {
+                    "xmin": 138,
+                    "ymin": 139,
+                    "xmax": 200,
+                    "ymax": 157
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\68.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [],
+        "plates": [
+            {
+                "vehicle_id": null,
+                "vehicle_type": null,
+                "detection_confidence": 0.73,
+                "color_info": null,
+                "model_info": null,
+                "bbox": null,
+                "recognition_text": "16A0Y323",
+                "recognition_confidence": 0.97,
+                "detection_bbox": {
+                    "xmin": 515,
+                    "ymin": 1221,
+                    "xmax": 917,
+                    "ymax": 1343
+                }
+            }
+        ]
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\69.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "truck",
+                "detection_confidence": 0.72,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.9903527\"}, {\"color\": \"Grey\", \"prob\": \"0.0029892316\"}, {\"color\": \"Blue\", \"prob\": \"0.0018224199\"}]",
+                "model_info": "[{\"make\": \"Mitsubishi\", \"model\": \"L200\", \"prob\": \"0.5454987\"}, {\"make\": \"Mitsubishi\", \"model\": \"Triton\", \"prob\": \"0.29785806\"}, {\"make\": \"Toyota\", \"model\": \"Hilux\", \"prob\": \"0.074185446\"}]",
+                "bbox": {
+                    "x": 1532,
+                    "y": 3555,
+                    "width": 1813,
+                    "height": 902
+                },
+                "recognition_text": "01AKE746",
+                "recognition_confidence": 0.91,
+                "detection_bbox": {
+                    "xmin": 74,
+                    "ymin": 518,
+                    "xmax": 244,
+                    "ymax": 589
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.78,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.9849711\"}, {\"color\": \"Silver\", \"prob\": \"0.004404807\"}, {\"color\": \"Blue\", \"prob\": \"0.0026124686\"}]",
+                "model_info": "[{\"make\": \"Ford\", \"model\": \"Courier\", \"prob\": \"0.52206933\"}, {\"make\": \"Ford\", \"model\": \"Tourneo Courier\", \"prob\": \"0.37932158\"}, {\"make\": \"Ford\", \"model\": \"Tourneo Connect\", \"prob\": \"0.07783407\"}]",
+                "bbox": {
+                    "x": 3105,
+                    "y": 3489,
+                    "width": 803,
+                    "height": 483
+                },
+                "recognition_text": "38AGH626",
+                "recognition_confidence": 0.94,
+                "detection_bbox": {
+                    "xmin": 82,
+                    "ymin": 347,
+                    "xmax": 233,
+                    "ymax": 410
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\70.jpg",
+        "docName": "multipage_dms_189d5685d0c4e6001f227fb3",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.885683536529541,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.51418555\"}, {\"color\": \"Silver\", \"prob\": \"0.18393482\"}, {\"color\": \"Grey\", \"prob\": \"0.079787426\"}]",
+                "model_info": "[{\"make\": \"Lada\", \"model\": \"Kalina\", \"prob\": \"0.06681149\"}, {\"make\": \"Toyota\", \"model\": \"Corolla\", \"prob\": \"0.033833753\"}, {\"make\": \"Lada\", \"model\": \"Priora\", \"prob\": \"0.027962178\"}]",
+                "bbox": {
+                    "x": 197,
+                    "y": 1069,
+                    "width": 330,
+                    "height": 169
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.68,
+                "color_info": "[{\"color\": \"Red\", \"prob\": \"0.2204389\"}, {\"color\": \"White\", \"prob\": \"0.12982796\"}, {\"color\": \"Black\", \"prob\": \"0.1276766\"}]",
+                "model_info": "[{\"make\": \"Tofas\", \"model\": \"Dogan\", \"prob\": \"0.076207645\"}, {\"make\": \"Lada\", \"model\": \"110\", \"prob\": \"0.024462018\"}, {\"make\": \"Lada\", \"model\": \"21099\", \"prob\": \"0.022654263\"}]",
+                "bbox": {
+                    "x": 945,
+                    "y": 1020,
+                    "width": 205,
+                    "height": 107
+                },
+                "recognition_text": null,
+                "recognition_confidence": null,
+                "detection_bbox": {
+                    "xmin": 128,
+                    "ymin": 56,
+                    "xmax": 168,
+                    "ymax": 68
+                }
+            },
+            {
+                "vehicle_id": 4,
+                "vehicle_type": "car",
+                "detection_confidence": 0.6929272413253784,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.27133027\"}, {\"color\": \"Silver\", \"prob\": \"0.17155802\"}, {\"color\": \"Black\", \"prob\": \"0.13684477\"}]",
+                "model_info": "[{\"make\": \"Volkswagen\", \"model\": \"Polo\", \"prob\": \"0.010472494\"}, {\"make\": \"Skoda\", \"model\": \"Octavia\", \"prob\": \"0.009979058\"}, {\"make\": \"Honda\", \"model\": \"Civic\", \"prob\": \"0.009119897\"}]",
+                "bbox": {
+                    "x": 798,
+                    "y": 997,
+                    "width": 150,
+                    "height": 86
+                }
+            },
+            {
+                "vehicle_id": 6,
+                "vehicle_type": "car",
+                "detection_confidence": 0.6146636009216309,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.42782977\"}, {\"color\": \"Silver\", \"prob\": \"0.17536661\"}, {\"color\": \"Grey\", \"prob\": \"0.1050619\"}]",
+                "model_info": "[{\"make\": \"Toyota\", \"model\": \"Corolla\", \"prob\": \"0.019208966\"}, {\"make\": \"Mitsubishi\", \"model\": \"Lancer\", \"prob\": \"0.014142383\"}, {\"make\": \"Hyundai\", \"model\": \"Getz\", \"prob\": \"0.013281498\"}]",
+                "bbox": {
+                    "x": 405,
+                    "y": 988,
+                    "width": 80,
+                    "height": 62
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\71.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.76,
+                "color_info": "[{\"color\": \"Gold\", \"prob\": \"0.4007685\"}, {\"color\": \"Beige\", \"prob\": \"0.28866374\"}, {\"color\": \"Grey\", \"prob\": \"0.10239841\"}]",
+                "model_info": "[{\"make\": \"Nissan\", \"model\": \"Almera\", \"prob\": \"0.9880795\"}, {\"make\": \"Opel\", \"model\": \"Vectra\", \"prob\": \"0.0038478659\"}, {\"make\": \"Nissan\", \"model\": \"Pulsar\", \"prob\": \"0.0017294866\"}]",
+                "bbox": {
+                    "x": 407,
+                    "y": 269,
+                    "width": 535,
+                    "height": 397
+                },
+                "recognition_text": "16EE566",
+                "recognition_confidence": 0.92,
+                "detection_bbox": {
+                    "xmin": 289,
+                    "ymin": 304,
+                    "xmax": 435,
+                    "ymax": 359
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\72.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.75,
+                "color_info": "[{\"color\": \"Red\", \"prob\": \"0.9820207\"}, {\"color\": \"Violet\", \"prob\": \"0.0049718446\"}, {\"color\": \"White\", \"prob\": \"0.0035021687\"}]",
+                "model_info": "[{\"make\": \"Hyundai\", \"model\": \"Elantra\", \"prob\": \"0.7199211\"}, {\"make\": \"Hyundai\", \"model\": \"i30\", \"prob\": \"0.09094039\"}, {\"make\": \"Hyundai\", \"model\": \"Avante\", \"prob\": \"0.051836934\"}]",
+                "bbox": {
+                    "x": 562,
+                    "y": 313,
+                    "width": 601,
+                    "height": 457
+                },
+                "recognition_text": "16J8076",
+                "recognition_confidence": 0.98,
+                "detection_bbox": {
+                    "xmin": 347,
+                    "ymin": 328,
+                    "xmax": 509,
+                    "ymax": 392
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.7485340237617493,
+                "color_info": "[{\"color\": \"Black\", \"prob\": \"0.30258325\"}, {\"color\": \"White\", \"prob\": \"0.16205607\"}, {\"color\": \"Grey\", \"prob\": \"0.15725341\"}]",
+                "model_info": "[{\"make\": \"Renault\", \"model\": \"Twizy\", \"prob\": \"0.015523659\"}, {\"make\": \"Fiat\", \"model\": \"Panda\", \"prob\": \"0.011329058\"}, {\"make\": \"Renault\", \"model\": \"Zoe\", \"prob\": \"0.009532457\"}]",
+                "bbox": {
+                    "x": 102,
+                    "y": 53,
+                    "width": 72,
+                    "height": 52
+                }
+            },
+            {
+                "vehicle_id": 3,
+                "vehicle_type": "car",
+                "detection_confidence": 0.6612363457679749,
+                "color_info": "[{\"color\": \"Black\", \"prob\": \"0.25793144\"}, {\"color\": \"White\", \"prob\": \"0.20173493\"}, {\"color\": \"Grey\", \"prob\": \"0.13555892\"}]",
+                "model_info": "[{\"make\": \"Ford\", \"model\": \"Mustang\", \"prob\": \"0.013369023\"}, {\"make\": \"Honda\", \"model\": \"Civic\", \"prob\": \"0.012380402\"}, {\"make\": \"Lamborghini\", \"model\": \"Aventador\", \"prob\": \"0.011061868\"}]",
+                "bbox": {
+                    "x": 231,
+                    "y": 42,
+                    "width": 63,
+                    "height": 50
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\73.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.77,
+                "color_info": "[{\"color\": \"Black\", \"prob\": \"0.9868527\"}, {\"color\": \"Blue\", \"prob\": \"0.0054285\"}, {\"color\": \"Grey\", \"prob\": \"0.002033755\"}]",
+                "model_info": "[{\"make\": \"Kia\", \"model\": \"Sorento\", \"prob\": \"0.9525331\"}, {\"make\": \"Lexus\", \"model\": \"RX 300\", \"prob\": \"0.0047551156\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"M-Class\", \"prob\": \"0.0028849486\"}]",
+                "bbox": {
+                    "x": 538,
+                    "y": 328,
+                    "width": 490,
+                    "height": 395
+                },
+                "recognition_text": "16KM339",
+                "recognition_confidence": 1.0,
+                "detection_bbox": {
+                    "xmin": 269,
+                    "ymin": 279,
+                    "xmax": 394,
+                    "ymax": 327
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.8329050540924072,
+                "color_info": "[{\"color\": \"Black\", \"prob\": \"0.30113912\"}, {\"color\": \"White\", \"prob\": \"0.1462167\"}, {\"color\": \"Grey\", \"prob\": \"0.12948865\"}]",
+                "model_info": "[{\"make\": \"Renault\", \"model\": \"Captur\", \"prob\": \"0.019260122\"}, {\"make\": \"Renault\", \"model\": \"Koleos\", \"prob\": \"0.017300583\"}, {\"make\": \"Renault\", \"model\": \"Talisman\", \"prob\": \"0.016388144\"}]",
+                "bbox": {
+                    "x": 149,
+                    "y": 162,
+                    "width": 73,
+                    "height": 52
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\74.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.8086301684379578,
+                "color_info": "[{\"color\": \"Black\", \"prob\": \"0.2400978\"}, {\"color\": \"White\", \"prob\": \"0.18877245\"}, {\"color\": \"Grey\", \"prob\": \"0.15852773\"}]",
+                "model_info": "[{\"make\": \"Fiat\", \"model\": \"Panda\", \"prob\": \"0.047945525\"}, {\"make\": \"Volkswagen\", \"model\": \"Golf\", \"prob\": \"0.03230264\"}, {\"make\": \"Fiat\", \"model\": \"500\", \"prob\": \"0.028172016\"}]",
+                "bbox": {
+                    "x": 99,
+                    "y": 59,
+                    "width": 70,
+                    "height": 52
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.76,
+                "color_info": "[{\"color\": \"Grey\", \"prob\": \"0.8256773\"}, {\"color\": \"Blue\", \"prob\": \"0.08485744\"}, {\"color\": \"Silver\", \"prob\": \"0.06511762\"}]",
+                "model_info": "[{\"make\": \"Honda\", \"model\": \"Civic\", \"prob\": \"0.888068\"}, {\"make\": \"Honda\", \"model\": \"Life\", \"prob\": \"0.04269749\"}, {\"make\": \"Honda\", \"model\": \"Fit\", \"prob\": \"0.014809711\"}]",
+                "bbox": {
+                    "x": 532,
+                    "y": 260,
+                    "width": 487,
+                    "height": 355
+                },
+                "recognition_text": "35N1275",
+                "recognition_confidence": 0.95,
+                "detection_bbox": {
+                    "xmin": 273,
+                    "ymin": 254,
+                    "xmax": 408,
+                    "ymax": 317
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\75.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "bus",
+                "detection_confidence": 0.71,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.9279544\"}, {\"color\": \"Silver\", \"prob\": \"0.024092935\"}, {\"color\": \"Grey\", \"prob\": \"0.014698517\"}]",
+                "model_info": "[{\"make\": \"Mercedes-Benz\", \"model\": \"Marco Polo\", \"prob\": \"0.26763207\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"Actros\", \"prob\": \"0.16743068\"}, {\"make\": \"Mercedes-Benz\", \"model\": \"170\", \"prob\": \"0.062070884\"}]",
+                "bbox": {
+                    "x": 714,
+                    "y": 298,
+                    "width": 734,
+                    "height": 537
+                },
+                "recognition_text": null,
+                "recognition_confidence": null,
+                "detection_bbox": {
+                    "xmin": 494,
+                    "ymin": 469,
+                    "xmax": 579,
+                    "ymax": 508
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\76.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "car",
+                "detection_confidence": 0.69,
+                "color_info": "[{\"color\": \"Blue\", \"prob\": \"0.6365808\"}, {\"color\": \"Grey\", \"prob\": \"0.33840606\"}, {\"color\": \"Black\", \"prob\": \"0.0105693545\"}]",
+                "model_info": "[{\"make\": \"Volkswagen\", \"model\": \"Polo\", \"prob\": \"0.9290241\"}, {\"make\": \"Volkswagen\", \"model\": \"Golf\", \"prob\": \"0.0350805\"}, {\"make\": \"Volkswagen\", \"model\": \"Touran\", \"prob\": \"0.016063353\"}]",
+                "bbox": {
+                    "x": 652,
+                    "y": 334,
+                    "width": 536,
+                    "height": 400
+                },
+                "recognition_text": "16JBG57",
+                "recognition_confidence": 0.94,
+                "detection_bbox": {
+                    "xmin": 326,
+                    "ymin": 284,
+                    "xmax": 466,
+                    "ymax": 333
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.8242858648300171,
+                "color_info": "[{\"color\": \"Black\", \"prob\": \"0.252548\"}, {\"color\": \"White\", \"prob\": \"0.18501805\"}, {\"color\": \"Grey\", \"prob\": \"0.1453852\"}]",
+                "model_info": "[{\"make\": \"Dacia\", \"model\": \"Duster\", \"prob\": \"0.0524568\"}, {\"make\": \"Renault\", \"model\": \"Koleos\", \"prob\": \"0.038127482\"}, {\"make\": \"Renault\", \"model\": \"Captur\", \"prob\": \"0.033180207\"}]",
+                "bbox": {
+                    "x": 128,
+                    "y": 115,
+                    "width": 73,
+                    "height": 53
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\77.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "bus",
+                "detection_confidence": 0.33,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.97349924\"}, {\"color\": \"Black\", \"prob\": \"0.007427019\"}, {\"color\": \"Blue\", \"prob\": \"0.0070211464\"}]",
+                "model_info": "[{\"make\": \"Mercedes-Benz\", \"model\": \"Marco Polo\", \"prob\": \"0.81363034\"}, {\"make\": \"Peugeot\", \"model\": \"J9\", \"prob\": \"0.028051073\"}, {\"make\": \"Peugeot\", \"model\": \"J7\", \"prob\": \"0.0104530705\"}]",
+                "bbox": {
+                    "x": 573,
+                    "y": 353,
+                    "width": 991,
+                    "height": 516
+                },
+                "recognition_text": null,
+                "recognition_confidence": null,
+                "detection_bbox": {
+                    "xmin": 0,
+                    "ymin": 446,
+                    "xmax": 34,
+                    "ymax": 473
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\78.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "bus",
+                "detection_confidence": 0.7972414493560791,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.4748405\"}, {\"color\": \"Black\", \"prob\": \"0.16580157\"}, {\"color\": \"Grey\", \"prob\": \"0.11653357\"}]",
+                "model_info": "[{\"make\": \"Toyota\", \"model\": \"Corolla\", \"prob\": \"0.01204837\"}, {\"make\": \"Jeep\", \"model\": \"Wrangler\", \"prob\": \"0.011411759\"}, {\"make\": \"Volkswagen\", \"model\": \"Caddy\", \"prob\": \"0.010894318\"}]",
+                "bbox": {
+                    "x": 581,
+                    "y": 496,
+                    "width": 1031,
+                    "height": 314
+                }
+            },
+            {
+                "vehicle_id": 2,
+                "vehicle_type": "car",
+                "detection_confidence": 0.7712196111679077,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.968501\"}, {\"color\": \"Silver\", \"prob\": \"0.014738659\"}, {\"color\": \"Grey\", \"prob\": \"0.009022619\"}]",
+                "model_info": "[{\"make\": \"Jeep\", \"model\": \"Wrangler\", \"prob\": \"0.022525055\"}, {\"make\": \"Volkswagen\", \"model\": \"Beetle\", \"prob\": \"0.011667159\"}, {\"make\": \"Chevrolet\", \"model\": \"Chevy\", \"prob\": \"0.011051724\"}]",
+                "bbox": {
+                    "x": 37,
+                    "y": 535,
+                    "width": 74,
+                    "height": 57
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\79.jpg",
+        "docName": "multipage_dms_189d76b484c4e6001fb40107",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "motorcycle",
+                "detection_confidence": 0.8987127542495728,
+                "color_info": "[{\"color\": \"White\", \"prob\": \"0.7191253\"}, {\"color\": \"Black\", \"prob\": \"0.111601695\"}, {\"color\": \"Silver\", \"prob\": \"0.051889993\"}]",
+                "model_info": "[{\"make\": \"Lotus\", \"model\": \"Super Seven\", \"prob\": \"0.031324394\"}, {\"make\": \"Honda\", \"model\": \"Civic\", \"prob\": \"0.023674317\"}, {\"make\": \"Ford\", \"model\": \"Model A\", \"prob\": \"0.022708168\"}]",
+                "bbox": {
+                    "x": 250,
+                    "y": 471,
+                    "width": 267,
+                    "height": 235
+                }
+            }
+        ],
+        "plates": []
+    },
+    {
+        "filePath": "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\80.jpg",
+        "docName": "multipage_dms_189d5685d0c4e6001f227fb3",
+        "vehicles": [
+            {
+                "vehicle_id": 1,
+                "vehicle_type": "motorcycle",
+                "detection_confidence": 0.26,
+                "color_info": "[{\"color\": \"Black\", \"prob\": \"0.39161435\"}, {\"color\": \"White\", \"prob\": \"0.25795397\"}, {\"color\": \"Red\", \"prob\": \"0.1814183\"}]",
+                "model_info": "[{\"make\": \"Jeep\", \"model\": \"Wrangler\", \"prob\": \"0.036857408\"}, {\"make\": \"Honda\", \"model\": \"Civic\", \"prob\": \"0.027644137\"}, {\"make\": \"Ford\", \"model\": \"Mustang\", \"prob\": \"0.020541124\"}]",
+                "bbox": {
+                    "x": 328,
+                    "y": 413,
+                    "width": 289,
+                    "height": 262
+                },
+                "recognition_text": null,
+                "recognition_confidence": null,
+                "detection_bbox": {
+                    "xmin": 36,
+                    "ymin": 126,
+                    "xmax": 85,
+                    "ymax": 173
+                }
+            }
+        ],
+        "plates": []
+    }
+]
