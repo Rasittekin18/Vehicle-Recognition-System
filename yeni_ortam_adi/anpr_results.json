@@ -1,0 +1,124 @@
+{
+    "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\3.jpg": [
+        {
+            "detection_bounding_box": [
+                512,
+                230,
+                601,
+                271
+            ],
+            "detection_confidence": 0.7261849641799927,
+            "recognition_text": "6AAB723",
+            "recognition_polygon": [
+                [
+                    530,
+                    247
+                ],
+                [
+                    594,
+                    244
+                ],
+                [
+                    595,
+                    258
+                ],
+                [
+                    531,
+                    261
+                ]
+            ],
+            "recognition_confidence": 0.8932387828826904
+        },
+        {
+            "detection_bounding_box": [
+                130,
+                226,
+                222,
+                259
+            ],
+            "detection_confidence": 0.725635290145874,
+            "recognition_text": "16AAB723",
+            "recognition_polygon": [
+                [
+                    136,
+                    235
+                ],
+                [
+                    217,
+                    229
+                ],
+                [
+                    219,
+                    251
+                ],
+                [
+                    138,
+                    257
+                ]
+            ],
+            "recognition_confidence": 0.9247415661811829
+        }
+    ],
+    "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\10.jpg": [
+        {
+            "detection_bounding_box": [
+                267,
+                284,
+                380,
+                330
+            ],
+            "detection_confidence": 0.802831768989563,
+            "recognition_text": "61VZ999",
+            "recognition_polygon": [
+                [
+                    275,
+                    299
+                ],
+                [
+                    374,
+                    288
+                ],
+                [
+                    375,
+                    314
+                ],
+                [
+                    276,
+                    325
+                ]
+            ],
+            "recognition_confidence": 0.9430639743804932
+        }
+    ],
+    "C:\\Users\\Rasit\\PycharmProjects\\pythonProject9\\vehicle_detection_tracker-main\\examples\\4.jpg": [
+        {
+            "detection_bounding_box": [
+                406,
+                1412,
+                821,
+                1540
+            ],
+            "detection_confidence": 0.7568535804748535,
+            "recognition_text": "16BT086",
+            "recognition_polygon": [
+                [
+                    456,
+                    1436
+                ],
+                [
+                    799,
+                    1436
+                ],
+                [
+                    799,
+                    1516
+                ],
+                [
+                    456,
+                    1516
+                ]
+            ],
+            "recognition_confidence": 0.9322147965431213
+        }
+    ]
+}
