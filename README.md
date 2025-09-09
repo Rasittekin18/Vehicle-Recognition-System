@@ -62,7 +62,8 @@
 }
 
 📷 Sample Results
-
+![Vehicle-Recognition-System](Screenshot_1.jpg)
+![Vehicle-Recognition-System](Screenshot_2.jpg)
 - Detects and tracks vehicles in input images.
 - Extracts license plates and runs OCR.
 - Provides structured outputs for further processing.
